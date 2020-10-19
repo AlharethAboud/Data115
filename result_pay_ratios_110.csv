@@ -1,0 +1,2200 @@
+Ticker,Company,Median Worker Pay,Pay Ratio
+ANF ,Abercrombie & Fitch Co. ,"$1,954          ","4,293:1          "
+BURL ,"Burlington Stores, Inc. ","$11,583          ","3,030:1          "
+YUMC ,"Yum China Holdings, Inc. ","$4,161          ","2,925:1          "
+MSG ,Madison Square Garden Sports Corp. ,"$18,650          ","2,902:1          "
+MAT ,"Mattel, Inc. ","$5,526          ","2,808:1          "
+UVV ,Universal Corporation ,"$1,826          ","2,502:1          "
+MAN ,"ManpowerGroup, Inc. ","$5,625          ","2,230:1          "
+MPAA ,"Motorcar Parts of America, Inc. ","$1,675          ","2,197:1          "
+APTV ,Aptiv Plc ,"$7,302          ","2,077:1          "
+MCD ,McDonald's Corporation ,"$9,291          ","1,939:1          "
+SPB ,"Spectrum Brands Holdings, Inc. ","$11,371          ","1,731:1          "
+SBUX ,Starbucks Corporation ,"$11,489          ","1,675:1          "
+KO ,The Coca-Cola Company ,"$11,285          ","1,657:1          "
+JBL ,"Jabil, Inc. ","$7,109          ","1,605:1          "
+TJX ,"The TJX Companies, Inc. ","$12,006          ","1,590:1          "
+GES ,"Guess, Inc. ","$10,960          ","1,586:1          "
+GPS ,"The Gap, Inc. ","$6,177          ","1,558:1          "
+GIII ,"G-III Apparel Group, Ltd. ","$10,833          ","1,532:1          "
+DKS ,"Dick's Sporting Goods, Inc. ","$10,120          ","1,487:1          "
+WSM ,"Williams-Sonoma, Inc. ","$11,493          ","1,482:1          "
+GCO ,Genesco Inc. ,"$3,777          ","1,441:1          "
+YUM ,"Yum! Brands, Inc. ","$11,584          ","1,413:1          "
+LEA ,Lear Corporation ,"$10,172          ","1,349:1          "
+ALGN ,"Align Technology, Inc. ","$13,756          ","1,328:1          "
+SEAS ,"SeaWorld Entertainment, Inc. ","$9,180          ","1,289:1          "
+WDC ,Western Digital Corporation ,"$10,063          ","1,279:1          "
+PLCE ,"The Children's Place, Inc. ","$9,671          ","1,262:1          "
+VFC ,VF Corp. ,"$13,330          ","1,245:1          "
+NUS ,"Nu Skin Enterprises, Inc. ","$3,818          ","1,197:1          "
+WW ,"WW International, Inc. ","$6,214          ","1,174:1          "
+EXPR ,"Express, Inc. ","$6,117          ","1,152:1          "
+THRM ,Gentherm Incorporated ,"$4,289          ","1,150:1          "
+GME ,GameStop Corp. ,"$11,129          ","1,137:1          "
+CMG ,"Chipotle Mexican Grill, Inc. ","$14,155          ","1,136:1          "
+COMM ,"CommScope Holding Co., Inc. ","$12,769          ","1,096:1          "
+AMC ,"AMC Entertainment Holdings, Inc. ","$8,840          ","1,094:1          "
+GOOGL ,Alphabet Inc. ,"$258,708          ","1,085:1          "
+FDP ,Fresh Del Monte Produce Inc. ,"$5,218          ","1,081:1          "
+ROST ,"Ross Stores, Inc. ","$11,356          ","1,059:1          "
+NCLH ,Norwegian Cruise Line Holdings Ltd. ,"$16,925          ","1,052:1          "
+PZZA ,"Papa John's International, Inc. ","$7,598          ","1,038:1          "
+KHC ,The Kraft Heinz Company ,"$42,689          ","1,034:1          "
+FL ,"Foot Locker, Inc. ","$9,112          ","1,013:1          "
+BBBY ,Bed Bath & Beyond Inc. ,"$14,521          ","1,007:1          "
+AEO ,"American Eagle Outfitters, Inc. ","$8,058          ","1,003:1          "
+WMT ,Walmart Inc. ,"$22,484          ",983:1          
+AYI ,"Acuity Brands, Inc. ","$15,169          ",981:1          
+DBI ,Designer Brands Inc. ,"$7,550          ",965:1          
+HWM ,Howmet Aerospace Inc. ,"$55,497          ",934:1          
+KSS ,Kohl's Corporation ,"$9,738          ",923:1          
+DIS ,The Walt Disney Company ,"$52,184          ",911:1          
+PVH ,PVH Corp. ,"$19,472          ",897:1          
+MPC ,Marathon Petroleum Corporation ,"$27,507          ",877:1          
+IIVI ,II-VI Incorporated ,"$12,218          ",875:1          
+AVNS ,"Avanos Medical, Inc. ","$5,950          ",844:1          
+RCL ,Royal Caribbean Cruises Ltd. ,"$17,303          ",830:1          
+DG ,Dollar General Corporation ,"$14,571          ",824:1          
+TGT ,Target Corporation ,"$23,080          ",821:1          
+LYV ,"Live Nation Entertainment, Inc. ","$18,333          ",794:1          
+CVS ,CVS Health Corporation ,"$46,140          ",790:1          
+KR ,The Kroger Co. ,"$26,790          ",789:1          
+ADNT ,Adient plc ,"$18,387          ",789:1          
+SNX ,SYNNEX Corporation ,"$7,871          ",788:1          
+SANM ,Sanmina Corp. ,"$14,354          ",732:1          
+CCL ,Carnival Corporation ,"$15,429          ",723:1          
+FIVE ,"Five Below, Inc. ","$8,315          ",718:1          
+CRI ,"Carter's, Inc. ","$10,890          ",700:1          
+EL ,"The Estee Lauder Companies, Inc. ","$30,733          ",697:1          
+INTC ,Intel Corporation ,"$96,300          ",695:1          
+BHE ,"Benchmark Electronics, Inc. ","$8,911          ",695:1          
+TRN ,"Trinity Industries, Inc. ","$14,756          ",694:1          
+PSMT ,"PriceSmart, Inc. ","$9,924          ",694:1          
+AVY ,Avery Dennison Corporation ,"$12,278          ",692:1          
+DLTR ,"Dollar Tree, Inc. ","$15,375          ",690:1          
+AM ,Antero Midstream Corp. ,"$27,097          ",679:1          
+BCO ,The Brink's Company ,"$12,379          ",679:1          
+WHR ,Whirlpool Corporation ,"$20,765          ",675:1          
+VVI ,Viad Corp ,"$6,109          ",665:1          
+BIG ,"Big Lots, Inc. ","$9,871          ",663:1          
+GBX ,"The Greenbrier Companies, Inc. ","$11,986          ",655:1          
+VRTU ,Virtusa Corporation ,"$12,659          ",630:1          
+UHS ,"Universal Health Services, Inc. ","$38,931          ",629:1          
+SWKS ,"Skyworks Solutions, Inc. ","$21,852          ",625:1          
+AMD ,"Advanced Micro Devices, Inc. ","$96,874          ",604:1          
+FCFS ,"FirstCash, Inc. ","$12,391          ",600:1          
+EXLS ,"ExlService Holdings, Inc. ","$10,342          ",599:1          
+DRI ,"Darden Restaurants, Inc. ","$18,175          ",589:1          
+LVS ,Las Vegas Sands Corp. ,"$42,228          ",584:1          
+LULU ,lululemon athletica inc. ,"$19,459          ",580:1          
+DISCA ,"Discovery, Inc. ","$79,343          ",578:1          
+FN ,Fabrinet ,"$11,440          ",578:1          
+UEIC ,Universal Electronics Inc. ,"$6,633          ",575:1          
+RL ,Ralph Lauren Corporation ,"$21,358          ",570:1          
+WBA ,"Walgreens Boots Alliance, Inc. ","$34,074          ",562:1          
+MDLZ ,"Mondelez International, Inc. ","$32,280          ",561:1          
+HBI ,Hanesbrands Inc. ,"$7,076          ",559:1          
+CPRI ,Capri Holdings Limited ,"$25,700          ",558:1          
+BLMN ,"Bloomin' Brands, Inc. ","$14,302          ",558:1          
+ON ,ON Semiconductor Corporation ,"$16,069          ",554:1          
+WFC ,Wells Fargo & Company ,"$65,931          ",550:1          
+WFC ,Wells Fargo & Company ,"$65,931          ",550:1          
+KN ,Knowles Corp. ,"$8,338          ",549:1          
+BJ ,"BJ's Wholesale Club Holdings, Inc. ","$18,393          ",542:1          
+CAR ,"Avis Budget Group, Inc. ","$31,083          ",538:1          
+ST ,Sensata Technologies Holding Plc ,"$10,790          ",537:1          
+CAT ,Caterpillar Inc. ,"$65,132          ",530:1          
+HRB ,"H&R Block, Inc. ","$16,182          ",526:1          
+CVGW ,"Calavo Growers, Inc. ","$4,948          ",523:1          
+LIN ,Linde Plc ,"$43,216          ",520:1          
+CTSH ,Cognizant Technology Solutions Corporation ,"$32,084          ",514:1          
+APH ,Amphenol Corporation ,"$14,441          ",511:1          
+LOW ,"Lowe's Companies, Inc. ","$22,748          ",511:1          
+LAUR ,"Laureate Education, Inc. ","$9,898          ",509:1          
+SKT ,"Tanger Factory Outlet Centers, Inc. ","$12,954          ",507:1          
+CATO ,The Cato Corporation ,"$10,382          ",507:1          
+RBC ,Regal Beloit Corporation ,"$13,433          ",501:1          
+VC ,Visteon Corporation ,"$16,068          ",498:1          
+CHS ,"Chico's FAS, Inc. ","$11,053          ",495:1          
+CBRL ,"Cracker Barrel Old Country Store, Inc. ","$14,232          ",491:1          
+UAA ,"Under Armour, Inc. ","$12,126          ",491:1          
+HLT ,"Hilton Worldwide Holdings, Inc. ","$43,695          ",489:1          
+GE ,General Electric Company ,"$50,471          ",486:1          
+TPR ,"Tapestry, Inc. ","$25,450          ",486:1          
+C ,Citigroup Inc. ,"$52,988          ",482:1          
+HD ,"The Home Depot, Inc. ","$22,652          ",481:1          
+EAT ,"Brinker International, Inc. ","$20,745          ",480:1          
+HCA ,"HCA Healthcare, Inc. ","$56,012          ",478:1          
+PLXS ,Plexus Corp. ,"$13,689          ",476:1          
+FWONA ,Liberty Media Corp. ,"$93,055          ",473:1          
+OSIS ,"OSI Systems, Inc. ","$14,473          ",471:1          
+FIS ,"Fidelity National Information Services, Inc. ","$59,235          ",467:1          
+CL ,Colgate-Palmolive Company ,"$24,055          ",463:1          
+SYKE ,"Sykes Enterprises, Incorporated ","$9,594          ",462:1          
+CMCSA ,Comcast Corporation ,"$78,869          ",461:1          
+WRLD ,World Acceptance Corporation ,"$41,368          ",461:1          
+M ,"Macy's, Inc. ","$22,353          ",461:1          
+Y ,Alleghany Corporation ,"$30,363          ",461:1          
+DXC ,DXC Technology Co. ,"$41,602          ",456:1          
+THC ,Tenet Healthcare Corporation ,"$53,714          ",452:1          
+OMC ,"Omnicom Group, Inc. ","$44,059          ",450:1          
+CHDN ,Churchill Downs Incorporated ,"$23,670          ",447:1          
+TMUS ,"T-Mobile US, Inc. ","$62,195          ",446:1          
+TT ,Trane Technologies Plc ,"$54,757          ",442:1          
+HSY ,The Hershey Company ,"$38,099          ",441:1          
+BBY ,"Best Buy Co., Inc. ","$27,005          ",438:1          
+MCS ,The Marcus Corporation ,"$12,186          ",438:1          
+TBI ,"TrueBlue, Inc. ","$7,736          ",438:1          
+SPGI ,"S&P Global, Inc. ","$27,860          ",436:1          
+MUSA ,"Murphy USA, Inc. ","$16,435          ",434:1          
+SWK ,"Stanley Black & Decker, Inc. ","$43,316          ",432:1          
+GOLF ,Acushnet Holdings Corp. ,"$13,701          ",431:1          
+EMR ,Emerson Electric Co. ,"$47,415          ",428:1          
+BG ,Bunge Limited ,"$39,133          ",428:1          
+MYL ,Mylan N.V. ,"$43,367          ",427:1          
+FISV ,"Fiserv, Inc. ","$65,254          ",423:1          
+CCK ,"Crown Holdings, Inc. ","$33,390          ",420:1          
+ULTA ,"Ulta Beauty, Inc. ","$16,857          ",419:1          
+H ,Hyatt Hotels Corporation ,"$35,358          ",416:1          
+JACK ,Jack in the Box Inc. ,"$14,935          ",415:1          
+RGS ,Regis Corporation ,"$20,626          ",409:1          
+IHRT ,"iHeartMedia, Inc. ","$56,068          ",408:1          
+MKC ,"McCormick & Company, Incorporated ","$31,603          ",404:1          
+GRPN ,"Groupon, Inc. ","$50,560          ",402:1          
+DIOD ,Diodes Incorporated ,"$17,815          ",401:1          
+SBH ,"Sally Beauty Holdings, Inc. ","$14,708          ",398:1          
+NLSN ,Nielsen Holdings Plc ,"$32,646          ",396:1          
+PM ,Philip Morris International Inc. ,"$54,086          ",396:1          
+AAP ,"Advance Auto Parts, Inc. ","$19,463          ",395:1          
+JPM ,JPMorgan Chase & Co. ,"$80,431          ",393:1          
+BKE ,"The Buckle, Inc. ","$7,648          ",391:1          
+LITE ,"Lumentum Holdings, Inc. ","$23,939          ",390:1          
+COTY ,Coty Inc. ,"$43,242          ",387:1          
+HAIN ,"The Hain Celestial Group, Inc. ","$30,295          ",384:1          
+WMK ,"Weis Markets, Inc. ","$17,219          ",383:1          
+CNC ,Centene Corporation ,"$68,987          ",383:1          
+MCK ,McKesson Corporation ,"$40,601          ",380:1          
+BDX ,"Becton, Dickinson and Company ","$42,219          ",379:1          
+GLPI ,"Gaming & Leisure Properties, Inc. ","$30,137          ",379:1          
+TIF ,Tiffany & Co. ,"$35,743          ",378:1          
+NXST ,"Nexstar Media Group, Inc. ","$43,537          ",376:1          
+NXST ,"Nexstar Media Group, Inc. ","$43,537          ",376:1          
+RHI ,Robert Half International Inc. ,"$19,806          ",375:1          
+CROX ,"Crocs, Inc. ","$16,659          ",373:1          
+PPG ,"PPG Industries, Inc. ","$40,598          ",372:1          
+JCI ,Johnson Controls International Plc ,"$41,987          ",369:1          
+PEP ,"PepsiCo, Inc. ","$45,896          ",368:1          
+SLGN ,"Silgan Holdings, Inc. ","$36,067          ",368:1          
+PYPL ,"PayPal Holdings, Inc. ","$70,405          ",367:1          
+GPN ,Global Payments Inc. ,"$56,040          ",367:1          
+AXP ,American Express Company ,"$64,803          ",367:1          
+GTES ,Gates Industrial Corporation Plc ,"$28,679          ",366:1          
+ECL ,Ecolab Inc. ,"$54,234          ",365:1          
+LILAK ,Liberty Latin America Ltd. ,"$36,532          ",364:1          
+CFX ,Colfax Corporation ,"$23,146          ",364:1          
+TXRH ,"Texas Roadhouse, Inc. ","$13,483          ",363:1          
+CRL ,"Charles River Laboratories International, Inc. ","$49,069          ",361:1          
+PKI ,"PerkinElmer, Inc. ","$46,161          ",357:1          
+BBX ,BBX Capital Corporation ,"$27,250          ",357:1          
+AMCX ,AMC Networks Inc. ,"$57,587          ",354:1          
+IBM ,International Business Machines Corporation ,"$56,896          ",354:1          
+SFIX ,"Stitch Fix, Inc. ","$15,125          ",352:1          
+SHW ,The Sherwin-Williams Company ,"$42,590          ",349:1          
+VIAC ,ViacomCBS Inc. ,"$104,791          ",349:1          
+HIBB ,"Hibbett Sports, Inc. ","$5,646          ",348:1          
+UNH ,UnitedHealth Group Incorporated ,"$54,322          ",348:1          
+KELYA ,"Kelly Services, Inc. ","$8,627          ",347:1          
+INGR ,Ingredion Incorporated ,"$24,439          ",347:1          
+EEFT ,"Euronet Worldwide, Inc. ","$24,230          ",347:1          
+EBIX ,"Ebix, Inc. ","$12,705          ",346:1          
+ETN ,Eaton Corporation plc ,"$57,712          ",346:1          
+MAR ,"Marriott International, Inc. ","$38,878          ",346:1          
+TEN ,Tenneco Inc. ,"$27,104          ",343:1          
+CMI ,Cummins Inc. ,"$73,480          ",342:1          
+WEN ,The Wendy's Company ,"$19,657          ",340:1          
+MGM ,MGM Resorts International ,"$38,954          ",337:1          
+JNJ ,Johnson & Johnson ,"$76,000          ",334:1          
+CPS ,Cooper-Standard Holdings Inc. ,"$15,219          ",332:1          
+ABT ,Abbott Laboratories ,"$84,434          ",329:1          
+PAYC ,"Paycom Software, Inc. ","$64,408          ",328:1          
+PENN ,"Penn National Gaming, Inc. ","$29,299          ",325:1          
+T ,AT&T Inc. ,"$98,630          ",325:1          
+BAX ,Baxter International Inc. ,"$43,131          ",323:1          
+SFM ,"Sprouts Farmers Markets, Inc. ","$21,181          ",320:1          
+ATVI ,"Activision Blizzard, Inc. ","$94,308          ",319:1          
+MMM ,3M Company ,"$57,494          ",319:1          
+BKD ,Brookdale Senior Living Inc. ,"$20,057          ",317:1          
+ALL ,The Allstate Corporation ,"$61,860          ",317:1          
+CAG ,"Conagra Brands, Inc. ","$45,590          ",316:1          
+WU ,The Western Union Company ,"$31,966          ",316:1          
+GT ,The Goodyear Tire & Rubber Company ,"$53,623          ",316:1          
+SGMS ,Scientific Games Corporation ,"$59,017          ",315:1          
+AGCO ,AGCO Corporation ,"$48,463          ",315:1          
+LH ,Laboratory Corporation of America Holdings ,"$41,834          ",314:1          
+BWA ,BorgWarner Inc. ,"$44,389          ",314:1          
+MCHP ,Microchip Technology Incorporated ,"$41,125          ",313:1          
+AZO ,"AutoZone, Inc. ","$27,581          ",312:1          
+VSH ,"Vishay Intertechnology, Inc. ","$19,489          ",312:1          
+ODP ,"Office Depot, Inc. ","$30,745          ",312:1          
+CNK ,"Cinemark Holdings, Inc. ","$20,313          ",310:1          
+PG ,The Procter & Gamble Company ,"$66,326          ",309:1          
+PG ,The Procter & Gamble Company ,"$66,326          ",309:1          
+CB ,Chubb Limited ,"$66,372          ",309:1          
+CI ,Cigna Corporation ,"$62,946          ",307:1          
+SHOO ,"Steven Madden, Ltd. ","$23,903          ",307:1          
+DPZ ,"Domino's Pizza, Inc. ","$17,919          ",307:1          
+VMW ,"VMware, Inc. ","$139,046          ",306:1          
+PH ,Parker-Hannifin Corporation ,"$57,282          ",305:1          
+BYD ,Boyd Gaming Corporation ,"$31,728          ",304:1          
+FDX ,FedEx Corporation ,"$52,718          ",303:1          
+TSCO ,Tractor Supply Company ,"$28,524          ",303:1          
+WYNN ,Wynn Resorts Ltd. ,"$45,706          ",303:1          
+WH ,"Wyndham Hotels & Resorts, Inc. ","$22,391          ",301:1          
+ADP ,"Automatic Data Processing, Inc. ","$63,225          ",301:1          
+MMC ,"Marsh & McLennan Companies, Inc. ","$67,826          ",300:1          
+FLT ,"FleetCor Technologies, Inc. ","$38,414          ",299:1          
+ACN ,Accenture Plc ,"$50,512          ",298:1          
+TDG ,TransDigm Group Incorporated ,"$44,072          ",298:1          
+ITW ,Illinois Tool Works Inc. ,"$51,892          ",298:1          
+TPX ,"Tempur Sealy International, Inc. ","$48,205          ",296:1          
+CMPR ,Cimpress PLC ,"$41,442          ",296:1          
+HON ,Honeywell International Inc. ,"$69,513          ",295:1          
+PLPC ,Preformed Line Products Company ,"$16,343          ",293:1          
+BKNG ,Booking Holdings Inc. ,"$50,418          ",293:1          
+WING ,"Wingstop, Inc. ","$22,149          ",292:1          
+SLG ,SL Green Realty Corp. ,"$71,887          ",292:1          
+ADUS ,Addus HomeCare Corporation ,"$10,133          ",291:1          
+GLW ,Corning Incorporated ,"$49,121          ",291:1          
+MOH ,"Molina Healthcare, Inc. ","$62,227          ",290:1          
+TLYS ,"Tilly's, Inc. ","$4,262          ",290:1          
+ZUMZ ,Zumiez Inc. ,"$7,543          ",289:1          
+MRK ,"Merck & Co., Inc. ","$95,621          ",289:1          
+AIG ,"American International Group, Inc. ","$67,403          ",288:1          
+CAL ,"Caleres, Inc. ","$23,767          ",288:1          
+AMT ,American Tower Corporation ,"$62,745          ",288:1          
+SKX ,"Skechers U.S.A., Inc. ","$47,634          ",288:1          
+IAC ,IAC/InterActiveCorp. /Old/ ,"$53,981          ",287:1          
+ACHC ,"Acadia Healthcare Company, Inc. ","$26,881          ",287:1          
+DVA ,DaVita Inc. ,"$61,536          ",286:1          
+ADM ,Archer-Daniels-Midland Company ,"$63,981          ",285:1          
+ERI ,"Eldorado Resorts, Inc. ","$31,173          ",285:1          
+VICI ,"VICI Properties, Inc. ","$19,595          ",284:1          
+TSN ,"Tyson Foods, Inc. ","$36,681          ",283:1          
+UTX ,Raytheon Technologies Corp. ,"$76,417          ",282:1          
+MXIM ,"Maxim Integrated Products, Inc. ","$32,372          ",282:1          
+CAKE ,The Cheesecake Factory Incorporated ,"$23,807          ",282:1          
+LEG ,"Leggett & Platt, Incorporated ","$36,441          ",280:1          
+LB ,"L Brands, Inc. ","$13,490          ",280:1          
+MU ,"Micron Technology, Inc. ","$60,796          ",279:1          
+APD ,"Air Products and Chemicals, Inc. ","$61,035          ",279:1          
+IRM ,Iron Mountain Incorporated ,"$39,267          ",278:1          
+BAC ,Bank of America Corporation ,"$94,256          ",276:1          
+ZTS ,Zoetis Inc. ,"$76,949          ",275:1          
+ABM ,ABM Industries Incorporated ,"$23,654          ",275:1          
+CAH ,"Cardinal Health, Inc. ","$57,261          ",272:1          
+NWL ,"Newell Brands, Inc. ","$31,704          ",272:1          
+SUI ,"Sun Communities, Inc. ","$29,280          ",272:1          
+EVBG ,"Everbridge, Inc. ","$75,599          ",272:1          
+RHP ,"Ryman Hospitality Properties, Inc. ","$22,693          ",272:1          
+AMKR ,"Amkor Technology, Inc. ","$15,922          ",270:1          
+DE ,Deere & Company ,"$80,267          ",270:1          
+USB ,U.S. Bancorp ,"$69,775          ",269:1          
+LHX ,"L3Harris Technologies, Inc. ","$58,426          ",269:1          
+SYF ,Synchrony Financial ,"$45,407          ",268:1          
+SIG ,Signet Jewelers Limited ,"$34,600          ",267:1          
+UIS ,Unisys Corporation ,"$28,963          ",267:1          
+WLTW ,Willis Towers Watson Public Limited Company ,"$70,319          ",266:1          
+ADBE ,"Adobe, Inc. ","$147,115          ",266:1          
+NAV ,Navistar International Corporation ,"$37,580          ",265:1          
+NBR ,Nabors Industries Ltd. ,"$52,978          ",265:1          
+MOS ,The Mosaic Company ,"$37,234          ",262:1          
+COKE ,"Coca-Cola Consolidated, Inc. ","$45,254          ",259:1          
+HPQ ,HP Inc. ,"$75,013          ",258:1          
+PLD ,"Prologis, Inc. ","$117,751          ",258:1          
+QCOM ,QUALCOMM Incorporated ,"$90,259          ",256:1          
+TTWO ,"Take-Two Interactive Software, Inc. ","$67,714          ",256:1          
+GFF ,Griffon Corporation ,"$45,584          ",254:1          
+KMB ,Kimberly-Clark Corporation ,"$47,328          ",254:1          
+MPWR ,"Monolithic Power Systems, Inc. ","$36,848          ",254:1          
+MNST ,Monster Beverage Corporation ,"$55,169          ",253:1          
+FTV ,Fortive Corporation ,"$56,212          ",252:1          
+MSI ,"Motorola Solutions, Inc. ","$93,750          ",252:1          
+RAD ,Rite Aid Corporation ,"$38,394          ",252:1          
+NUAN ,"Nuance Communications, Inc. ","$50,397          ",250:1          
+AFL ,Aflac Incorporated ,"$56,371          ",250:1          
+DENN ,Denny's Corporation ,"$20,509          ",250:1          
+LFUS ,"Littelfuse, Inc. ","$15,671          ",250:1          
+HTZ ,"Hertz Global Holdings, Inc. ","$36,649          ",249:1          
+K ,Kellogg Company ,"$38,895          ",249:1          
+MSFT ,Microsoft Corporation ,"$172,512          ",249:1          
+REZI ,"Resideo Technologies, Inc. ","$25,569          ",248:1          
+MS ,Morgan Stanley ,"$127,414          ",248:1          
+SGH ,"SMART Global Holdings, Inc. ","$24,840          ",248:1          
+ANTM ,"Anthem, Inc. ","$62,686          ",247:1          
+AMED ,"Amedisys, Inc. ","$52,049          ",247:1          
+RCII ,"Rent-A-Center, Inc. ","$35,154          ",246:1          
+NULL ,Aon Plc ,"$65,497          ",245:1          
+DHR ,Danaher Corporation ,"$74,672          ",244:1          
+MTN ,"Vail Resorts, Inc. ","$14,884          ",244:1          
+CTL ,"CenturyLink, Inc. ","$71,279          ",243:1          
+UPS ,"United Parcel Service, Inc. ","$74,395          ",243:1          
+CTL ,"CenturyLink, Inc. ","$71,279          ",243:1          
+G ,Genpact Limited ,"$31,657          ",241:1          
+GDDY ,"GoDaddy, Inc. ","$59,369          ",241:1          
+MDT ,Medtronic Plc ,"$74,206          ",240:1          
+OMF ,"OneMain Holdings, Inc. ","$39,567          ",240:1          
+BSX ,Boston Scientific Corporation ,"$65,630          ",240:1          
+KLAC ,KLA Corporation ,"$85,968          ",239:1          
+ROLL ,RBC Bearings Incorporated ,"$48,788          ",239:1          
+RS ,Reliance Steel & Aluminum Co. ,"$58,100          ",237:1          
+HAS ,"Hasbro, Inc. ","$75,729          ",237:1          
+XPO ,"XPO Logistics, Inc. ","$33,162          ",237:1          
+CVX ,Chevron Corporation ,"$140,063          ",236:1          
+NCR ,NCR Corporation ,"$54,281          ",235:1          
+TMO ,Thermo Fisher Scientific Inc. ,"$80,915          ",235:1          
+SEB ,Seaboard Corporation ,"$37,682          ",234:1          
+VAC ,Marriott Vacations Worldwide Corporation ,"$37,067          ",234:1          
+AIZ ,"Assurant, Inc. ","$43,368          ",234:1          
+STZ ,"Constellation Brands, Inc. ","$40,373          ",233:1          
+UTHR ,United Therapeutics Corporation ,"$196,979          ",232:1          
+IPG ,"The Interpublic Group of Companies, Inc. ","$71,835          ",231:1          
+AMP ,"Ameriprise Financial, Inc. ","$106,428          ",230:1          
+HUN ,Huntsman Corporation ,"$71,711          ",230:1          
+FELE ,"Franklin Electric Co., Inc. ","$27,858          ",229:1          
+TKR ,The Timken Company ,"$51,873          ",229:1          
+NWSA ,News Corporation ,"$64,666          ",228:1          
+QLYS ,"Qualys, Inc. ","$43,244          ",228:1          
+CREE ,"Cree, Inc. ","$45,940          ",227:1          
+HUM ,Humana Inc. ,"$73,669          ",227:1          
+TXN ,Texas Instruments Incorporated ,"$82,034          ",227:1          
+EIGI ,"Endurance International Group Holdings, Inc. ","$43,284          ",226:1          
+MSGN ,MSG Networks Inc. ,"$27,883          ",226:1          
+CHE ,Chemed Corporation ,"$44,423          ",226:1          
+FMC ,FMC Corporation ,"$51,332          ",225:1          
+CASY ,"Casey's General Stores, Inc. ","$15,655          ",225:1          
+GTN ,"Gray Television, Inc. ","$36,502          ",224:1          
+XRAY ,DENTSPLY SIRONA Inc. ,"$50,861          ",223:1          
+AAN ,"Aaron's, Inc. ","$31,325          ",223:1          
+MTD ,Mettler-Toledo International Inc. ,"$39,445          ",222:1          
+OLLI ,"Ollie's Bargain Outlet Holdings, Inc. ","$14,342          ",221:1          
+DAN ,Dana Incorporated ,"$39,234          ",221:1          
+DAN ,Dana Incorporated ,"$39,234          ",221:1          
+CBRE ,"CBRE Group, Inc. ","$61,122          ",220:1          
+MLI ,"Mueller Industries, Inc. ","$36,709          ",220:1          
+KMX ,"CarMax, Inc. ","$42,691          ",220:1          
+OI ,"O-I Glass, Inc. ","$35,239          ",220:1          
+ACC ,"American Campus Communities, Inc. ","$26,519          ",219:1          
+NUE ,Nucor Corporation ,"$87,573          ",218:1          
+EA ,Electronic Arts Inc. ,"$97,986          ",218:1          
+PNC ,"The PNC Financial Services Group, Inc. ","$76,131          ",217:1          
+RF ,Regions Financial Corporation ,"$60,621          ",217:1          
+BOOT ,"Boot Barn Holdings, Inc. ","$15,122          ",217:1          
+MAS ,Masco Corporation ,"$40,070          ",216:1          
+LKQ ,LKQ Corporation ,"$29,945          ",215:1          
+CSGP ,"CoStar Group, Inc. ","$89,925          ",215:1          
+HAE ,Haemonetics Corporation ,"$43,875          ",214:1          
+BK ,The Bank of New York Mellon Corporation ,"$63,202          ",213:1          
+SYK ,Stryker Corporation ,"$70,771          ",212:1          
+WSO ,"Watsco, Inc. ","$52,908          ",212:1          
+ROP ,"Roper Technologies, Inc. ","$88,988          ",212:1          
+PGR ,The Progressive Corporation ,"$66,285          ",212:1          
+ABC ,AmerisourceBergen Corporation ,"$54,472          ",208:1          
+GPC ,Genuine Parts Company ,"$39,321          ",208:1          
+FCX ,"Freeport-McMoRan, Inc. ","$75,874          ",207:1          
+PII ,Polaris Inc. ,"$49,387          ",206:1          
+DEI ,"Douglas Emmett, Inc. ","$45,727          ",206:1          
+SBGI ,"Sinclair Broadcast Group, Inc. ","$48,220          ",206:1          
+SPWR ,SunPower Corporation ,"$14,528          ",205:1          
+GLT ,P. H. Glatfelter Company ,"$54,000          ",204:1          
+HPE ,Hewlett Packard Enterprise Company ,"$67,196          ",204:1          
+GM ,General Motors Company ,"$106,715          ",203:1          
+HSIC ,"Henry Schein, Inc. ","$71,272          ",203:1          
+DOV ,Dover Corporation ,"$45,141          ",203:1          
+CETV ,Central European Media Enterprises Ltd. ,"$23,752          ",203:1          
+ROK ,"Rockwell Automation, Inc. ","$57,907          ",202:1          
+GEF ,"Greif, Inc. ","$39,538          ",202:1          
+AAPL ,Apple Inc. ,"$57,596          ",201:1          
+MTOR ,"Meritor, Inc. ","$36,966          ",200:1          
+LMT ,Lockheed Martin Corporation ,"$154,883          ",200:1          
+WRK ,WestRock Company ,"$58,183          ",200:1          
+TTMI ,"TTM Technologies, Inc. ","$9,849          ",199:1          
+TTMI ,"TTM Technologies, Inc. ","$9,849          ",199:1          
+ACM ,AECOM ,"$80,021          ",199:1          
+SGC ,"Superior Group of Companies, Inc. ","$9,370          ",198:1          
+EFX ,Equifax Inc. ,"$72,230          ",198:1          
+RSG ,"Republic Services, Inc. ","$63,899          ",197:1          
+DFS ,Discover Financial Services ,"$47,096          ",196:1          
+GDEN ,"Golden Entertainment, Inc. ","$25,159          ",196:1          
+IFF ,International Flavors & Fragrances Inc. ,"$38,981          ",196:1          
+SCVL ,"Shoe Carnival, Inc. ","$12,384          ",196:1          
+ANSS ,"ANSYS, Inc. ","$100,100          ",196:1          
+ATR ,"AptarGroup, Inc. ","$40,502          ",195:1          
+LNC ,Lincoln National Corporation ,"$79,460          ",194:1          
+ELAN ,"Elanco Animal Health, Inc. ","$81,265          ",194:1          
+APG ,APi Group Corporation ,"$64,059          ",194:1          
+COO ,"The Cooper Companies, Inc. ","$39,775          ",194:1          
+ALLE ,Allegion Plc ,"$44,199          ",193:1          
+JWN ,"Nordstrom, Inc. ","$35,668          ",193:1          
+CUBE ,CubeSmart ,"$27,935          ",192:1          
+ENR ,"Energizer Holdings, Inc. ","$35,464          ",192:1          
+ARW ,"Arrow Electronics, Inc. ","$60,819          ",192:1          
+ARW ,"Arrow Electronics, Inc. ","$60,819          ",192:1          
+CUBE ,CubeSmart ,"$27,935          ",192:1          
+TXT ,Textron Inc. ,"$99,196          ",191:1          
+MET ,"MetLife, Inc. ","$77,359          ",190:1          
+NFLX ,"Netflix, Inc. ","$202,931          ",190:1          
+CDNS ,"Cadence Design Systems, Inc. ","$100,773          ",190:1          
+UNP ,Union Pacific Corporation ,"$79,446          ",189:1          
+AAL ,American Airlines Group Inc. ,"$61,143          ",189:1          
+CTS ,CTS Corporation ,"$12,920          ",189:1          
+DGX ,Quest Diagnostics Incorporated ,"$53,492          ",189:1          
+LE ,"Lands' End, Inc. ","$28,680          ",189:1          
+BKR ,Baker Hughes Company ,"$79,242          ",188:1          
+LRN ,K12 Inc. ,"$52,182          ",188:1          
+FAF ,First American Financial Corporation ,"$55,016          ",188:1          
+LII ,Lennox International Inc. ,"$70,513          ",188:1          
+NWLI ,"National Western Life Group, Inc. ","$51,948          ",188:1          
+COG ,Cabot Oil & Gas Corporation ,"$74,070          ",187:1          
+FIZZ ,National Beverage Corp. ,"$54,232          ",187:1          
+RP ,"RealPage, Inc. ","$51,324          ",187:1          
+CMP ,"Compass Minerals International, Inc. ","$56,862          ",187:1          
+FBHS ,"Fortune Brands Home & Security, Inc. ","$57,125          ",187:1          
+IQV ,"IQVIA Holdings, Inc. ","$118,891          ",186:1          
+CNMD ,CONMED Corporation ,"$33,311          ",186:1          
+LAD ,"Lithia Motors, Inc. ","$42,905          ",186:1          
+EHC ,Encompass Health Corporation ,"$39,032          ",186:1          
+CHGG ,"Chegg, Inc. ","$49,000          ",186:1          
+KFRC ,Kforce Inc. ,"$37,906          ",186:1          
+KDP ,Keurig Dr Pepper Inc. ,"$49,645          ",185:1          
+HRL ,Hormel Foods Corporation ,"$45,086          ",185:1          
+LZB ,La-Z-Boy Incorporated ,"$35,423          ",185:1          
+X ,United States Steel Corporation ,"$72,170          ",185:1          
+LCII ,LCI Industries ,"$54,823          ",184:1          
+IVC ,Invacare Corporation ,"$45,440          ",184:1          
+LYB ,LyondellBasell Industries NV ,"$86,466          ",184:1          
+ENSG ,"The Ensign Group, Inc. ","$33,380          ",183:1          
+CDK ,"CDK Global, Inc. ","$77,182          ",183:1          
+JEC ,Jacobs Engineering Group Inc. ,"$79,733          ",183:1          
+BFYT ,"Benefytt Technologies, Inc. ","$56,796          ",183:1          
+DBD ,"Diebold Nixdorf, Inc. ","$35,383          ",183:1          
+BLK ,"BlackRock, Inc. ","$133,644          ",182:1          
+DCI ,"Donaldson Company, Inc. ","$34,680          ",181:1          
+CSCO ,"Cisco Systems, Inc. ","$142,593          ",181:1          
+PFE ,Pfizer Inc. ,"$98,972          ",181:1          
+THO ,"Thor Industries, Inc. ","$50,233          ",180:1          
+CERN ,Cerner Corporation ,"$69,830          ",180:1          
+NOV ,"National Oilwell Varco, Inc. ","$51,374          ",180:1          
+MLM ,"Martin Marietta Materials, Inc. ","$67,956          ",180:1          
+FLR ,Fluor Corporation ,"$70,540          ",180:1          
+SEM ,Select Medical Holdings Corporation ,"$42,730          ",180:1          
+EW ,Edwards Lifesciences Corporation ,"$64,517          ",179:1          
+KWR ,Quaker Chemical Corporation ,"$40,130          ",179:1          
+ASPS ,Altisource Portfolio Solutions S.A. ,"$32,185          ",179:1          
+IP ,International Paper Company ,"$88,810          ",179:1          
+ESRT ,"Empire State Realty Trust, Inc. ","$62,157          ",179:1          
+TAST ,"Carrols Restaurant Group, Inc. ","$12,993          ",179:1          
+A ,"Agilent Technologies, Inc. ","$70,014          ",179:1          
+PLNT ,"Planet Fitness, Inc. ","$24,960          ",178:1          
+LEN ,Lennar Corporation ,"$102,830          ",178:1          
+AOS ,A. O. Smith Corporation ,"$21,337          ",178:1          
+WAB ,Westinghouse Air Brake Technologies Corporation ,"$42,045          ",178:1          
+LEN ,Lennar Corporation ,"$102,830          ",178:1          
+EMN ,Eastman Chemical Company ,"$81,638          ",178:1          
+CSV ,"Carriage Services, Inc. ","$11,532          ",177:1          
+BJRI ,"BJ's Restaurants, Inc. ","$20,692          ",177:1          
+PATK ,"Patrick Industries, Inc. ","$37,237          ",177:1          
+KBR ,"KBR, Inc. ","$63,885          ",177:1          
+NOC ,Northrop Grumman Corporation ,"$114,667          ",177:1          
+BDC ,Belden Inc. ,"$42,332          ",177:1          
+AES ,The AES Corporation ,"$61,975          ",175:1          
+MIDD ,The Middleby Corporation ,"$39,153          ",175:1          
+VNO ,Vornado Realty Trust ,"$65,442          ",175:1          
+KE ,"Kimball Electronics, Inc. ","$13,598          ",172:1          
+AN ,"AutoNation, Inc. ","$49,568          ",172:1          
+GIS ,"General Mills, Inc. ","$57,177          ",172:1          
+PRDO ,Perdoceo Education Corporation ,"$43,500          ",172:1          
+VRA ,"Vera Bradley, Inc. ","$15,734          ",171:1          
+CNDT ,"Conduent, Inc. ","$27,311          ",171:1          
+NATI ,National Instruments Corporation ,"$49,581          ",171:1          
+CWK ,Cushman & Wakefield Plc ,"$54,107          ",171:1          
+EYE ,"National Vision Holdings, Inc. ","$26,343          ",171:1          
+TECH ,Bio-Techne Corporation ,"$64,371          ",171:1          
+EYE ,"National Vision Holdings, Inc. ","$26,343          ",171:1          
+V ,Visa Inc. ,"$142,494          ",170:1          
+HEI ,HEICO Corporation ,"$60,046          ",170:1          
+COST ,Costco Wholesale Corporation ,"$47,312          ",169:1          
+UAL ,"United Airlines Holdings, Inc. ","$74,750          ",169:1          
+POST ,"Post Holdings, Inc. ","$67,082          ",169:1          
+GILD ,"Gilead Sciences, Inc. ","$173,264          ",169:1          
+PSX ,Phillips 66 ,"$188,738          ",169:1          
+STAY ,"Extended Stay America, Inc. ","$24,483          ",168:1          
+NAVI ,Navient Corporation ,"$46,126          ",168:1          
+MA ,Mastercard Incorporated ,"$138,142          ",168:1          
+NEE ,"NextEra Energy, Inc. ","$129,735          ",168:1          
+CTLT ,"Catalent, Inc. ","$50,845          ",168:1          
+FNF ,"Fidelity National Financial, Inc. ","$57,381          ",168:1          
+KAR ,"KAR Auction Services, Inc. ","$33,017          ",167:1          
+XYL ,Xylem Inc. ,"$50,000          ",166:1          
+DHI ,"D.R. Horton, Inc. ","$86,531          ",166:1          
+SPG ,"Simon Property Group, Inc. ","$62,457          ",166:1          
+SO ,The Southern Company ,"$167,872          ",166:1          
+SO ,The Southern Company ,"$167,872          ",166:1          
+PSA ,Public Storage ,"$26,001          ",165:1          
+MSCI ,MSCI Inc. ,"$55,857          ",165:1          
+CTAS ,Cintas Corporation ,"$52,302          ",165:1          
+EXAS ,Exact Sciences Corporation ,"$113,869          ",164:1          
+OSK ,Oshkosh Corporation ,"$62,619          ",164:1          
+EXR ,Extra Space Storage Inc. ,"$38,658          ",163:1          
+COP ,ConocoPhillips ,"$186,334          ",163:1          
+BEN ,"Franklin Resources, Inc. ","$63,941          ",163:1          
+HCSG ,"Healthcare Services Group, Inc. ","$23,610          ",162:1          
+SSNC ,"SS&C Technologies Holdings, Inc. ","$133,054          ",162:1          
+WYND ,"Wyndham Destinations, Inc. ","$49,083          ",162:1          
+WTM ,"White Mountains Insurance Group, Ltd. ","$42,523          ",161:1          
+SEE ,Sealed Air Corporation ,"$55,804          ",161:1          
+GPI ,"Group 1 Automotive, Inc. ","$49,324          ",161:1          
+USM ,United States Cellular Corporation ,"$55,425          ",160:1          
+CW ,Curtiss-Wright Corporation ,"$57,569          ",160:1          
+AVT ,"Avnet, Inc. ","$52,638          ",160:1          
+ZBH ,"Zimmer Biomet Holdings, Inc. ","$69,683          ",160:1          
+VGR ,Vector Group Ltd. ,"$73,085          ",160:1          
+CW ,Curtiss-Wright Corporation ,"$57,569          ",160:1          
+GEO ,"The GEO Group, Inc. ","$37,981          ",159:1          
+ADT ,"ADT, Inc. ","$58,615          ",159:1          
+XRX ,Xerox Holdings Corporation ,"$82,621          ",159:1          
+RMD ,ResMed Inc. ,"$60,918          ",158:1          
+ITGR ,Integer Holdings Corporation ,"$36,271          ",158:1          
+F ,Ford Motor Company ,"$110,706          ",157:1          
+GD ,General Dynamics Corporation ,"$116,510          ",157:1          
+MCO ,Moody's Corporation ,"$87,393          ",157:1          
+WY ,Weyerhaeuser Company ,"$63,464          ",157:1          
+SPR ,"Spirit AeroSystems Holdings, Inc. ","$70,486          ",157:1          
+KMPR ,Kemper Corporation ,"$54,726          ",156:1          
+QRVO ,"Qorvo, Inc. ","$47,290          ",156:1          
+PAG ,"Penske Automotive Group, Inc. ","$44,527          ",155:1          
+OXM ,"Oxford Industries, Inc. ","$17,789          ",155:1          
+LECO ,"Lincoln Electric Holdings, Inc. ","$45,062          ",155:1          
+CRM ,"salesforce.com, inc. ","$167,750          ",155:1          
+QRTEA ,"Qurate Retail, Inc. ","$30,221          ",155:1          
+CLF ,Cleveland-Cliffs Inc. ,"$104,333          ",154:1          
+HQY ,"HealthEquity, Inc. ","$34,244          ",154:1          
+AXTA ,Axalta Coating Systems Ltd. ,"$64,702          ",154:1          
+AVB ,"AvalonBay Communities, Inc. ","$70,917          ",154:1          
+REGN ,"Regeneron Pharmaceuticals, Inc. ","$139,055          ",154:1          
+HQY ,"HealthEquity, Inc. ","$34,244          ",154:1          
+CTRE ,"CareTrust REIT, Inc. ","$20,752          ",154:1          
+NSC ,Norfolk Southern Corporation ,"$108,348          ",154:1          
+STT ,State Street Corporation ,"$56,610          ",154:1          
+TOL ,"Toll Brothers, Inc. ","$70,089          ",153:1          
+SCHW ,The Charles Schwab Corporation ,"$105,565          ",153:1          
+CBU ,"Community Bank System, Inc. ","$33,858          ",152:1          
+ZBRA ,Zebra Technologies Corporation ,"$66,632          ",152:1          
+KEY ,KeyCorp ,"$63,748          ",152:1          
+BMY ,Bristol-Myers Squibb Company ,"$123,365          ",152:1          
+CHTR ,"Charter Communications, Inc. ","$57,625          ",152:1          
+SYY ,Sysco Corporation ,"$70,801          ",152:1          
+TRV ,"The Travelers Companies, Inc. ","$111,170          ",151:1          
+SP ,SP Plus Corporation ,"$20,080          ",151:1          
+AMG ,"Affiliated Managers Group, Inc. ","$160,697          ",151:1          
+GPK ,Graphic Packaging Holding Company ,"$60,795          ",151:1          
+EHTH ,"eHealth, Inc. ","$65,088          ",151:1          
+EPAM ,"EPAM Systems, Inc. ","$28,721          ",151:1          
+SP ,SP Plus Corporation ,"$20,080          ",151:1          
+AMGN ,Amgen Inc. ,"$130,904          ",150:1          
+HGV ,"Hilton Grand Vacations, Inc. ","$39,273          ",150:1          
+XEL ,Xcel Energy Inc. ,"$113,022          ",150:1          
+TDOC ,"Teladoc Health, Inc. ","$53,436          ",150:1          
+HIG ,"The Hartford Financial Services Group, Inc. ","$96,867          ",150:1          
+PLAY ,"Dave & Buster's Entertainment, Inc. ","$20,444          ",149:1          
+SMG ,The Scotts Miracle-Gro Company ,"$53,177          ",149:1          
+PFSI ,"PennyMac Financial Services, Inc. ","$67,742          ",149:1          
+CFG ,"Citizens Financial Group, Inc. ","$66,497          ",149:1          
+WM ,"Waste Management, Inc. ","$76,048          ",149:1          
+PBI ,"Pitney Bowes, Inc. ","$55,282          ",149:1          
+NDLS ,Noodles & Co. ,"$11,022          ",148:1          
+ES ,Eversource Energy ,"$133,899          ",148:1          
+CSL ,Carlisle Companies Incorporated ,"$64,629          ",148:1          
+HCI ,"HCI Group, Inc. ","$41,017          ",148:1          
+UNM ,Unum Group ,"$65,568          ",148:1          
+VVV ,"Valvoline, Inc. ","$31,075          ",148:1          
+RLGY ,Realogy Holdings Corp. ,"$59,273          ",148:1          
+RLGY ,Realogy Holdings Corp. ,"$59,273          ",148:1          
+ENDP ,Endo International Plc ,"$88,785          ",148:1          
+DAL ,"Delta Air Lines, Inc. ","$118,198          ",147:1          
+TEX ,Terex Corporation ,"$56,699          ",147:1          
+RPM ,RPM International Inc. ,"$57,028          ",147:1          
+MMSI ,"Merit Medical Systems, Inc. ","$34,418          ",147:1          
+TFX ,Teleflex Incorporated ,"$46,589          ",146:1          
+HAL ,Halliburton Company ,"$87,289          ",146:1          
+EXTN ,Exterran Corp. ,"$38,330          ",146:1          
+HXL ,Hexcel Corporation ,"$60,383          ",146:1          
+ATKR ,"Atkore International Group, Inc. ","$43,472          ",146:1          
+WELL ,"Welltower, Inc. ","$90,811          ",145:1          
+CMC ,Commercial Metals Company ,"$52,872          ",145:1          
+PKOH ,Park-Ohio Holdings Corp. ,"$45,350          ",145:1          
+ITRI ,"Itron, Inc. ","$47,689          ",145:1          
+DOW ,"Dow, Inc. ","$109,556          ",145:1          
+INFO ,IHS Markit Ltd. ,"$90,999          ",144:1          
+TDW ,"Tidewater, Inc. ","$22,712          ",144:1          
+CSX ,CSX Corporation ,"$107,632          ",144:1          
+WWW ,"Wolverine World Wide, Inc. ","$65,890          ",144:1          
+INFO ,IHS Markit Ltd. ,"$90,999          ",144:1          
+DK ,"Delek US Holdings, Inc. ","$63,371          ",143:1          
+DAR ,Darling Ingredients Inc. ,"$53,391          ",143:1          
+EXPD ,"Expeditors International of Washington, Inc. ","$45,108          ",142:1          
+SWM ,"Schweitzer-Mauduit International, Inc. ","$47,026          ",142:1          
+PAYX ,"Paychex, Inc. ","$56,018          ",142:1          
+AFG ,"American Financial Group, Inc. ","$73,634          ",142:1          
+CXW ,"CoreCivic, Inc. ","$37,846          ",141:1          
+CPB ,Campbell Soup Company ,"$60,357          ",141:1          
+CTVA ,"Corteva, Inc. ","$80,757          ",141:1          
+UNFI ,"United Natural Foods, Inc. ","$50,848          ",140:1          
+HELE ,Helen of Troy Limited ,"$67,423          ",140:1          
+MMS ,"MAXIMUS, Inc. ","$35,793          ",139:1          
+QUAD ,"Quad/Graphics, Inc. ","$46,412          ",139:1          
+IDXX ,"IDEXX Laboratories, Inc. ","$55,106          ",139:1          
+ABBV ,AbbVie Inc. ,"$155,885          ",139:1          
+RJF ,"Raymond James Financial, Inc. ","$94,864          ",138:1          
+GATX ,GATX Corporation ,"$55,559          ",138:1          
+KW ,"Kennedy-Wilson Holdings, Inc. ","$117,878          ",138:1          
+AXL ,"American Axle & Manufacturing Holdings, Inc. ","$55,627          ",138:1          
+AAOI ,"Applied Optoelectronics, Inc. ","$15,620          ",138:1          
+MUR ,Murphy Oil Corporation ,"$136,024          ",138:1          
+CCRN ,"Cross Country Healthcare, Inc. ","$25,080          ",138:1          
+TRMB ,Trimble Inc. ,"$70,075          ",138:1          
+AXL ,"American Axle & Manufacturing Holdings, Inc. ","$55,627          ",138:1          
+IEX ,IDEX Corporation ,"$66,703          ",137:1          
+SRI ,"Stoneridge, Inc. ","$24,135          ",137:1          
+SIRI ,"Sirius XM Holdings, Inc. ","$137,390          ",137:1          
+CLX ,The Clorox Company ,"$68,441          ",137:1          
+R ,"Ryder System, Inc. ","$48,274          ",137:1          
+RCM ,"R1 RCM, Inc. ","$35,549          ",137:1          
+SRE ,Sempra Energy ,"$145,951          ",136:1          
+SJM ,The J. M. Smucker Company ,"$79,071          ",136:1          
+FLS ,Flowserve Corporation ,"$64,075          ",136:1          
+CHD ,"Church & Dwight Co., Inc. ","$65,894          ",136:1          
+RXN ,Rexnord Corporation ,"$50,088          ",136:1          
+PRU ,"Prudential Financial, Inc. ","$111,499          ",136:1          
+MRVL ,Marvell Technology Group Ltd. ,"$152,014          ",136:1          
+XOM ,Exxon Mobil Corporation ,"$173,712          ",135:1          
+AMAT ,"Applied Materials, Inc. ","$104,500          ",135:1          
+DD ,"DuPont de Nemours, Inc. ","$86,294          ",135:1          
+HOLX ,"Hologic, Inc. ","$91,403          ",135:1          
+AMAT ,"Applied Materials, Inc. ","$104,500          ",135:1          
+FRTA ,"Forterra, Inc. ","$54,637          ",135:1          
+EBAY ,eBay Inc. ,"$130,636          ",135:1          
+KBH ,KB Home ,"$99,397          ",135:1          
+SHAK ,"Shake Shack, Inc. ","$17,032          ",134:1          
+AXTI ,"AXT, Inc. ","$15,988          ",133:1          
+MDC ,"M.D.C. Holdings, Inc. ","$88,420          ",133:1          
+ORLY ,"O'Reilly Automotive, Inc. ","$23,175          ",133:1          
+COOP ,"Mr. Cooper Group, Inc. ","$54,242          ",133:1          
+UGI ,UGI Corporation ,"$64,610          ",133:1          
+BPOP ,"Popular, Inc. ","$38,614          ",133:1          
+TROW ,"T. Rowe Price Group, Inc. ","$109,916          ",133:1          
+WST ,"West Pharmaceutical Services, Inc. ","$49,229          ",133:1          
+SAFM ,"Sanderson Farms, Inc. ","$31,297          ",133:1          
+BLKB ,"Blackbaud, Inc. ","$84,464          ",132:1          
+FITB ,Fifth Third Bancorp ,"$68,103          ",132:1          
+ITT ,"ITT, Inc. ","$53,778          ",131:1          
+MEI ,"Methode Electronics, Inc. ","$10,571          ",131:1          
+INSW ,"International Seaways, Inc. ","$21,487          ",131:1          
+ITT ,"ITT, Inc. ","$53,778          ",131:1          
+KSU ,Kansas City Southern ,"$48,623          ",131:1          
+TROX ,Tronox Holdings Plc ,"$55,325          ",131:1          
+GGG ,Graco Inc. ,"$64,849          ",131:1          
+HUBB ,Hubbell Incorporated ,"$42,893          ",131:1          
+SCS ,Steelcase Inc. ,"$59,247          ",131:1          
+THS ,"TreeHouse Foods, Inc. ","$55,710          ",130:1          
+PTC ,PTC Inc. ,"$85,126          ",129:1          
+MEDP ,"Medpace Holdings, Inc. ","$59,739          ",129:1          
+L ,Loews Corporation ,"$72,145          ",129:1          
+CZR ,Caesars Entertainment Corporation ,"$37,103          ",129:1          
+AA ,Alcoa Corp. ,"$100,290          ",129:1          
+ECPG ,"Encore Capital Group, Inc. ","$26,472          ",129:1          
+PRAA ,"PRA Group, Inc. ","$36,705          ",128:1          
+MATW ,Matthews International Corporation ,"$53,963          ",128:1          
+BL ,"BlackLine, Inc. ","$176,747          ",128:1          
+CMD ,Cantel Medical Corp. ,"$61,747          ",127:1          
+FUL ,H.B. Fuller Company ,"$57,370          ",127:1          
+MASI ,Masimo Corporation ,"$117,628          ",127:1          
+PRGO ,Perrigo Company plc ,"$82,616          ",127:1          
+CRY ,"CryoLife, Inc. ","$50,776          ",127:1          
+PFG ,"Principal Financial Group, Inc. ","$116,561          ",127:1          
+RRGB ,"Red Robin Gourmet Burgers, Inc. ","$22,157          ",127:1          
+MASI ,Masimo Corporation ,"$117,628          ",127:1          
+BLL ,Ball Corporation ,"$93,903          ",126:1          
+VRNT ,Verint Systems Inc. ,"$94,288          ",126:1          
+PKG ,Packaging Corporation of America ,"$71,268          ",126:1          
+TDS ,"Telephone and Data Systems, Inc. ","$54,661          ",126:1          
+B ,Barnes Group Inc. ,"$65,471          ",126:1          
+ASGN ,"ASGN, Inc. ","$35,036          ",126:1          
+EPC ,Edgewell Personal Care Co. ,"$54,112          ",126:1          
+WLK ,Westlake Chemical Corporation ,"$86,219          ",126:1          
+ANIP ,"ANI Pharmaceuticals, Inc. ","$46,642          ",125:1          
+STRA ,"Strategic Education, Inc. ","$59,351          ",125:1          
+SNA ,Snap-on Incorporated ,"$60,721          ",125:1          
+OZK ,Bank OZK ,"$41,167          ",125:1          
+MAA ,"Mid-America Apartment Communities, Inc. ","$46,088          ",124:1          
+MKL ,Markel Corporation ,"$39,303          ",124:1          
+EQIX ,"Equinix, Inc. ","$133,688          ",124:1          
+EQIX ,"Equinix, Inc. ","$133,688          ",124:1          
+MKL ,Markel Corporation ,"$39,303          ",124:1          
+FTDR ,"frontdoor, Inc. ","$44,750          ",124:1          
+NTRS ,Northern Trust Corporation ,"$76,636          ",123:1          
+LW ,"Lamb Weston Holdings, Inc. ","$55,629          ",123:1          
+ATO ,Atmos Energy Corporation ,"$84,516          ",123:1          
+LHCG ,"LHC Group, Inc. ","$37,853          ",123:1          
+MKSI ,"MKS Instruments, Inc. ","$79,505          ",122:1          
+DUK ,Duke Energy Corporation ,"$123,608          ",122:1          
+EXC ,Exelon Corporation ,"$126,000          ",122:1          
+FICO ,Fair Isaac Corporation ,"$93,278          ",122:1          
+FCPT ,"Four Corners Property Trust, Inc. ","$15,330          ",122:1          
+UFPI ,"UFP Industries, Inc. ","$40,965          ",121:1          
+HBAN ,Huntington Bancshares Incorporated ,"$61,717          ",121:1          
+SPXC ,SPX Corporation ,"$62,953          ",121:1          
+CHK ,Chesapeake Energy Corporation ,"$128,199          ",120:1          
+MOD ,Modine Manufacturing Company ,"$31,740          ",120:1          
+VRTV ,Veritiv Corp. ,"$58,644          ",120:1          
+NVT ,nVent Electric Plc ,"$49,796          ",120:1          
+WTS ,"Watts Water Technologies, Inc. ","$49,227          ",119:1          
+SNBR ,Sleep Number Corporation ,"$54,055          ",119:1          
+D ,"Dominion Energy, Inc. ","$145,136          ",119:1          
+ASH ,"Ashland Global Holdings, Inc. ","$62,083          ",119:1          
+INT ,World Fuel Services Corporation ,"$59,716          ",119:1          
+RH ,RH ,"$33,573          ",119:1          
+WTS ,"Watts Water Technologies, Inc. ","$49,227          ",119:1          
+CIA ,"Citizens, Inc. ","$35,907          ",119:1          
+LIVN ,LivaNova Plc ,"$60,298          ",118:1          
+ZNGA ,Zynga Inc. ,"$98,588          ",118:1          
+HII ,"Huntington Ingalls Industries, Inc. ","$73,108          ",118:1          
+AME ,"AMETEK, Inc. ","$86,304          ",118:1          
+BC ,Brunswick Corporation ,"$49,314          ",118:1          
+MNK ,Mallinckrodt public limited company ,"$124,155          ",118:1          
+KBAL ,"Kimball International, Inc. ","$54,239          ",117:1          
+ANAT ,American National Insurance Company ,"$67,023          ",117:1          
+FNB ,F.N.B. Corporation ,"$54,714          ",117:1          
+VRSK ,"Verisk Analytics, Inc. ","$77,055          ",117:1          
+KFY ,Korn Ferry ,"$78,777          ",117:1          
+ACCO ,ACCO Brands Corporation ,"$39,502          ",116:1          
+URGN ,UroGen Pharma Ltd. ,"$223,867          ",116:1          
+URGN ,UroGen Pharma Ltd. ,"$223,867          ",116:1          
+APEI ,"American Public Education, Inc. ","$27,290          ",116:1          
+ACCO ,ACCO Brands Corporation ,"$39,502          ",116:1          
+WCC ,"WESCO International, Inc. ","$57,269          ",116:1          
+FANG ,"Diamondback Energy, Inc. ","$137,832          ",116:1          
+BV ,"BrightView Holdings, Inc. ","$33,181          ",116:1          
+FBP ,First Bancorp ,"$29,269          ",115:1          
+CNNE ,"Cannae Holdings, Inc. ","$14,179          ",115:1          
+OC ,Owens Corning ,"$55,090          ",115:1          
+GTS ,Triple-S Management Corporation ,"$36,549          ",115:1          
+NDAQ ,"Nasdaq, Inc. ","$120,822          ",115:1          
+SABR ,Sabre Corp. ,"$76,584          ",115:1          
+NL ,"NL Industries, Inc. ","$49,090          ",115:1          
+CNA ,CNA Financial Corporation ,"$114,082          ",114:1          
+BIIB ,Biogen Inc. ,"$159,721          ",114:1          
+MYGN ,"Myriad Genetics, Inc. ","$77,814          ",114:1          
+POL ,PolyOne Corporation ,"$53,371          ",114:1          
+AIMC ,Altra Industrial Motion Corp. ,"$49,239          ",114:1          
+INTU ,Intuit Inc. ,"$157,232          ",114:1          
+TFC ,Truist Financial Corporation ,"$101,421          ",113:1          
+UNF ,UniFirst Corporation ,"$24,091          ",113:1          
+VTR ,"Ventas, Inc. ","$101,004          ",112:1          
+LSI ,"Life Storage, Inc. ","$31,357          ",112:1          
+ACA ,"Arcosa, Inc. ","$51,692          ",112:1          
+TWOU ,"2U, Inc. ","$59,272          ",112:1          
+COF ,Capital One Financial Corporation ,"$68,780          ",112:1          
+VMC ,Vulcan Materials Company ,"$85,562          ",112:1          
+HI ,"Hillenbrand, Inc. ","$49,407          ",111:1          
+TCF ,TCF Financial Corp. ,"$45,637          ",111:1          
+BERY ,"Berry Global Group, Inc. ","$50,162          ",111:1          
+NGHC ,National General Holdings Corp. ,"$50,541          ",111:1          
+EQR ,Equity Residential ,"$59,542          ",111:1          
+STL ,Sterling Bancorp ,"$69,466          ",111:1          
+PWR ,"Quanta Services, Inc. ","$92,493          ",111:1          
+SRC ,"Spirit Realty Capital, Inc. ","$87,754          ",111:1          
+SUM ,"Summit Materials, Inc. ","$61,969          ",110:1          
+ALB ,Albemarle Corporation ,"$77,782          ",110:1          
+HDS ,"HD Supply Holdings, Inc. ","$56,466          ",110:1          
+FHB ,"First Hawaiian, Inc. ","$54,729          ",110:1          
+TGI ,"Triumph Group, Inc. ","$51,348          ",110:1          
+TGI ,"Triumph Group, Inc. ","$51,348          ",110:1          
+MO ,"Altria Group, Inc. ","$142,246          ",109:1          
+GTLS ,"Chart Industries, Inc. ","$48,340          ",109:1          
+SERV ,"ServiceMaster Global Holdings, Inc. ","$48,126          ",109:1          
+AEP ,"American Electric Power Company, Inc. ","$132,611          ",109:1          
+SBAC ,SBA Communications Corp. ,"$92,370          ",109:1          
+MD ,"MEDNAX, Inc. ","$90,996          ",109:1          
+SYNH ,"Syneos Health, Inc. ","$70,000          ",109:1          
+TRGP ,Targa Resources Corp. ,"$114,112          ",109:1          
+ABG ,"Asbury Automotive Group, Inc. ","$50,000          ",109:1          
+INVH ,"Invitation Homes, Inc. ","$57,644          ",109:1          
+PANW ,"Palo Alto Networks, Inc. ","$219,722          ",109:1          
+DXCM ,"DexCom, Inc. ","$94,523          ",109:1          
+AMOT ,Allied Motion Technologies Inc. ,"$39,358          ",109:1          
+TTC ,The Toro Company ,"$48,319          ",109:1          
+NEM ,Newmont Corporation ,"$83,522          ",109:1          
+SNPS ,"Synopsys, Inc. ","$89,083          ",108:1          
+DIN ,"Dine Brands Global, Inc. ","$16,466          ",108:1          
+PNR ,Pentair Plc ,"$59,187          ",108:1          
+IT ,"Gartner, Inc. ","$110,383          ",108:1          
+SNPS ,"Synopsys, Inc. ","$89,083          ",108:1          
+BF.B ,Brown-Forman Corporation ,"$58,120          ",107:1          
+PRAH ,"PRA Health Sciences, Inc. ","$66,630          ",107:1          
+SNCR ,"Synchronoss Technologies, Inc. ","$75,591          ",106:1          
+BR ,"Broadridge Financial Solutions, Inc. ","$69,912          ",106:1          
+WMGI ,Wright Medical Group NV ,"$68,903          ",106:1          
+ESI ,"Element Solutions, Inc. ","$43,586          ",106:1          
+VMI ,"Valmont Industries, Inc. ","$46,015          ",106:1          
+BGCP ,"BGC Partners, Inc. ","$111,150          ",106:1          
+MOG.A ,Moog Inc. ,"$54,336          ",106:1          
+CLI ,Mack-Cali Realty Corporation ,"$84,223          ",106:1          
+HRC ,"Hill-Rom Holdings, Inc. ","$68,973          ",106:1          
+MSA ,"MSA Safety, Inc. ","$62,878          ",106:1          
+WRB ,W.R. Berkley Corp. ,"$105,106          ",105:1          
+STE ,STERIS Plc (Ireland) ,"$61,717          ",105:1          
+BIO ,"Bio-Rad Laboratories, Inc. ","$69,055          ",105:1          
+PGRE ,"Paramount Group, Inc. ","$88,741          ",105:1          
+BECN ,"Beacon Roofing Supply, Inc. ","$60,562          ",105:1          
+CR ,Crane Co. ,"$68,405          ",105:1          
+VZ ,Verizon Communications Inc. ,"$172,971          ",105:1          
+BIO ,"Bio-Rad Laboratories, Inc. ","$69,055          ",105:1          
+NXGN ,"NextGen Healthcare, Inc. ","$65,858          ",104:1          
+MTX ,Minerals Technologies Inc. ,"$52,027          ",104:1          
+GNW ,"Genworth Financial, Inc. ","$89,313          ",104:1          
+TPC ,Tutor Perini Corporation ,"$69,750          ",104:1          
+EQH ,"Equitable Holdings, Inc. ","$108,566          ",104:1          
+IART ,Integra LifeSciences Holdings Corporation ,"$75,619          ",104:1          
+VSAT ,"ViaSat, Inc. ","$104,265          ",103:1          
+VLO ,Valero Energy Corporation ,"$272,417          ",103:1          
+AMN ,"AMN Healthcare Services, Inc. ","$55,343          ",103:1          
+TRS ,TriMas Corporation ,"$37,385          ",103:1          
+LDOS ,"Leidos Holdings, Inc. ","$103,657          ",103:1          
+MTW ,"The Manitowoc Company, Inc. ","$61,661          ",103:1          
+MTSI ,"MACOM Technology Solutions Holdings, Inc. ","$81,577          ",103:1          
+BXP ,"Boston Properties, Inc. ","$115,266          ",103:1          
+LDL ,"Lydall, Inc. ","$40,404          ",103:1          
+SCHN ,"Schnitzer Steel Industries, Inc. ","$57,732          ",103:1          
+TRU ,TransUnion ,"$81,423          ",103:1          
+AZZ ,AZZ Inc. ,"$33,352          ",102:1          
+PB ,"Prosperity Bancshares, Inc. ","$36,631          ",102:1          
+PB ,"Prosperity Bancshares, Inc. ","$36,631          ",102:1          
+AZZ ,AZZ Inc. ,"$33,352          ",102:1          
+WEX ,WEX Inc. ,"$63,763          ",102:1          
+JJSF ,J & J Snack Foods Corp. ,"$41,315          ",102:1          
+CCI ,Crown Castle International Corp. ,"$123,187          ",102:1          
+SPTN ,SpartanNash Company ,"$32,283          ",101:1          
+OLED ,Universal Display Corporation ,"$126,469          ",101:1          
+PTEN ,"Patterson-UTI Energy, Inc. ","$87,685          ",101:1          
+MANH ,"Manhattan Associates, Inc. ","$90,920          ",101:1          
+GNRC ,Generac Holdings Inc. ,"$60,317          ",101:1          
+UNVR ,"Univar Solutions, Inc. ","$64,418          ",101:1          
+FND ,"Floor & Decor Holdings, Inc. ","$23,877          ",101:1          
+BKI ,"Black Knight, Inc. ","$100,039          ",101:1          
+ROCK ,"Gibraltar Industries, Inc. ","$51,513          ",101:1          
+SON ,Sonoco Products Company ,"$53,523          ",101:1          
+ADSK ,"Autodesk, Inc. ","$114,999          ",101:1          
+RM ,Regional Management Corp. ,"$41,682          ",100:1          
+KNX ,"Knight-Swift Transportation Holdings, Inc. ","$46,648          ",100:1          
+CLR ,"Continental Resources, Inc. ","$127,231          ",100:1          
+TNDM ,"Tandem Diabetes Care, Inc. ","$105,295          ",100:1          
+JBHT ,"J.B. Hunt Transport Services, Inc. ","$65,663          ",100:1          
+AEIS ,"Advanced Energy Industries, Inc. ","$46,644          ",99:1          
+VOYA ,"Voya Financial, Inc. ","$127,400          ",99:1          
+HOMB ,"Home BancShares, Inc. ","$45,100          ",99:1          
+ENTG ,"Entegris, Inc. ","$54,902          ",99:1          
+USPH ,"U.S. Physical Therapy, Inc. ","$28,802          ",99:1          
+KMT ,"Kennametal, Inc. ","$54,869          ",99:1          
+ABR ,"Arbor Realty Trust, Inc. ","$90,667          ",99:1          
+TGNA ,"TEGNA, Inc. ","$58,489          ",99:1          
+WWD ,"Woodward, Inc. ","$61,594          ",98:1          
+FE ,FirstEnergy Corp. ,"$149,550          ",98:1          
+MDRX ,"Allscripts Healthcare Solutions, Inc. ","$73,903          ",98:1          
+AMTD ,TD Ameritrade Holding Corporation ,"$87,721          ",98:1          
+ICE ,"Intercontinental Exchange, Inc. ","$146,693          ",98:1          
+SKY ,Skyline Champion Corp. ,"$37,433          ",98:1          
+ECHO ,"Echo Global Logistics, Inc. ","$44,950          ",98:1          
+PCTY ,Paylocity Holding Corp. ,"$73,570          ",98:1          
+SFNC ,Simmons First National Corporation ,"$50,463          ",98:1          
+FLWS ,"1-800-FLOWERS.COM, Inc. ","$26,852          ",98:1          
+MPW ,"Medical Properties Trust, Inc. ","$175,927          ",98:1          
+SXT ,Sensient Technologies Corporation ,"$60,079          ",97:1          
+MTZ ,"MasTec, Inc. ","$83,165          ",97:1          
+CIEN ,Ciena Corporation ,"$113,412          ",97:1          
+MRO ,Marathon Oil Corporation ,"$144,720          ",97:1          
+CBT ,Cabot Corporation ,"$68,660          ",97:1          
+CE ,Celanese Corporation ,"$82,366          ",97:1          
+OUT ,OUTFRONT Media Inc. ,"$72,331          ",97:1          
+ASB ,Associated Banc-Corp ,"$53,222          ",97:1          
+COLM ,Columbia Sportswear Company ,"$27,562          ",97:1          
+TR ,"Tootsie Roll Industries, Inc. ","$55,547          ",97:1          
+MDP ,Meredith Corporation ,"$75,496          ",97:1          
+USNA ,"USANA Health Sciences, Inc. ","$42,767          ",97:1          
+MDU ,"MDU Resources Group, Inc. ","$63,768          ",96:1          
+ROG ,Rogers Corporation ,"$41,968          ",96:1          
+PPL ,PPL Corporation ,"$147,463          ",96:1          
+BMRN ,BioMarin Pharmaceutical Inc. ,"$190,917          ",96:1          
+JW.A ,"John Wiley & Sons, Inc. ","$57,541          ",96:1          
+CLGX ,"CoreLogic, Inc. ","$68,504          ",96:1          
+TTGT ,"TechTarget, Inc. ","$68,000          ",95:1          
+PHM ,"PulteGroup, Inc. ","$96,842          ",95:1          
+TTGT ,"TechTarget, Inc. ","$68,000          ",95:1          
+PHM ,"PulteGroup, Inc. ","$96,842          ",95:1          
+ROL ,"Rollins, Inc. ","$50,134          ",95:1          
+FB ,"Facebook, Inc. ","$247,883          ",94:1          
+SYX ,Systemax Inc. ,"$43,500          ",94:1          
+FARO ,"FARO Technologies, Inc. ","$59,719          ",94:1          
+TNC ,Tennant Company ,"$52,172          ",94:1          
+EWBC ,"East West Bancorp, Inc. ","$78,992          ",94:1          
+UDR ,"UDR, Inc. ","$66,909          ",94:1          
+RUSHA ,"Rush Enterprises, Inc. ","$76,080          ",94:1          
+CVLT ,"Commvault Systems, Inc. ","$133,623          ",94:1          
+USFD ,US Foods Holding Corp. ,"$82,441          ",94:1          
+MOV ,"Movado Group, Inc. ","$39,642          ",94:1          
+FLOW ,"SPX Flow, Inc. ","$51,651          ",94:1          
+CNO ,"CNO Financial Group, Inc. ","$73,163          ",93:1          
+RVNC ,"Revance Therapeutics, Inc. ","$191,388          ",93:1          
+RDN ,Radian Group Inc. ,"$89,874          ",93:1          
+TREE ,"LendingTree, Inc. ","$96,957          ",93:1          
+CNX ,CNX Resources Corporation ,"$147,508          ",93:1          
+SGA ,"Saga Communications, Inc. ","$36,249          ",93:1          
+PRI ,"Primerica, Inc. ","$56,721          ",93:1          
+RVNC ,"Revance Therapeutics, Inc. ","$191,388          ",93:1          
+EDIT ,"Editas Medicine, Inc. ","$153,947          ",93:1          
+TREE ,"LendingTree, Inc. ","$96,957          ",93:1          
+NYCB ,"New York Community Bancorp, Inc. ","$82,420          ",93:1          
+JBT ,John Bean Technologies Corporation ,"$63,509          ",92:1          
+HTA ,"Healthcare Trust of America, Inc. ","$69,548          ",92:1          
+IVZ ,Invesco Ltd. ,"$125,282          ",92:1          
+LNG ,"Cheniere Energy, Inc. ","$182,655          ",92:1          
+GRMN ,Garmin Ltd. ,"$35,188          ",92:1          
+TRST ,TrustCo Bank Corp NY ,"$32,842          ",92:1          
+PEG ,Public Service Enterprise Group Incorporated ,"$142,188          ",92:1          
+NBL ,"Noble Energy, Inc. ","$142,118          ",92:1          
+SLCA ,"U.S. Silica Holdings, Inc. ","$67,902          ",92:1          
+REVG ,"REV Group, Inc. ","$44,567          ",92:1          
+WTFC ,Wintrust Financial Corporation ,"$56,323          ",91:1          
+GRUB ,"GrubHub, Inc. ","$85,700          ",91:1          
+CLNY ,"Colony Capital, Inc. ","$175,481          ",91:1          
+PRMW ,Primo Water Corporation ,"$45,056          ",91:1          
+BOH ,Bank of Hawaii Corporation ,"$58,365          ",91:1          
+CNP ,"CenterPoint Energy, Inc. ","$97,572          ",91:1          
+CTB ,Cooper Tire & Rubber Company ,"$59,764          ",91:1          
+WTFC ,Wintrust Financial Corporation ,"$56,323          ",91:1          
+GRUB ,"GrubHub, Inc. ","$85,700          ",91:1          
+PNW ,Pinnacle West Capital Corporation ,"$132,212          ",90:1          
+KTOS ,"Kratos Defense & Security Solutions, Inc. ","$63,056          ",90:1          
+BA ,The Boeing Company ,"$158,869          ",90:1          
+BGS ,"B&G Foods, Inc. ","$32,222          ",90:1          
+BH ,"Biglari Holdings, Inc. ","$10,000          ",90:1          
+ICUI ,"ICU Medical, Inc. ","$31,552          ",90:1          
+CADE ,Cadence Bancorporation ,"$71,557          ",90:1          
+VIAV ,"Viavi Solutions, Inc. ","$77,112          ",90:1          
+IR ,"Ingersoll Rand, Inc. ","$61,496          ",90:1          
+ODFL ,"Old Dominion Freight Line, Inc. ","$81,583          ",90:1          
+HNGR ,"Hanger, Inc. ","$54,755          ",90:1          
+HRTG ,"Heritage Insurance Holdings, Inc. ","$67,838          ",90:1          
+ACIW ,"ACI Worldwide, Inc. ","$86,621          ",89:1          
+YELP ,Yelp Inc. ,"$71,055          ",89:1          
+TTEK ,"Tetra Tech, Inc. ","$73,336          ",89:1          
+NSP ,"Insperity, Inc. ","$83,052          ",89:1          
+NSP ,"Insperity, Inc. ","$83,052          ",89:1          
+BLD ,TopBuild Corp. ,"$53,876          ",89:1          
+CIT ,CIT Group Inc. ,"$93,434          ",89:1          
+DOOR ,Masonite International Corp. ,"$42,870          ",89:1          
+TTEK ,"Tetra Tech, Inc. ","$73,336          ",89:1          
+FRC ,First Republic Bank ,"$145,400          ",89:1          
+TMHC ,Taylor Morrison Home Corp. ,"$94,209          ",88:1          
+WMB ,"The Williams Companies, Inc. ","$177,403          ",88:1          
+LPLA ,LPL Financial Holdings Inc. ,"$87,303          ",88:1          
+DCO ,Ducommun Incorporated ,"$66,358          ",88:1          
+ELY ,Callaway Golf Company ,"$66,233          ",88:1          
+ETM ,Entercom Communications Corp. ,"$50,919          ",88:1          
+MTH ,Meritage Homes Corporation ,"$104,193          ",88:1          
+MMI ,"Marcus & Millichap, Inc. ","$65,507          ",88:1          
+HP ,"Helmerich & Payne, Inc. ","$87,987          ",88:1          
+JLL ,Jones Lang LaSalle Incorporated ,"$106,000          ",87:1          
+NPTN ,NeoPhotonics Corporation ,"$20,314          ",87:1          
+LUV ,Southwest Airlines Co. ,"$101,302          ",87:1          
+PFGC ,Performance Food Group Co. ,"$69,614          ",87:1          
+HY ,"Hyster-Yale Materials Handling, Inc. ","$52,876          ",87:1          
+DLX ,Deluxe Corporation ,"$61,195          ",87:1          
+PFGC ,Performance Food Group Co. ,"$69,614          ",87:1          
+LUV ,Southwest Airlines Co. ,"$101,302          ",87:1          
+WBT ,"Welbilt, Inc. ","$49,745          ",87:1          
+OVV ,"Ovintiv, Inc. ","$144,770          ",87:1          
+NPTN ,NeoPhotonics Corporation ,"$20,314          ",87:1          
+HY ,"Hyster-Yale Materials Handling, Inc. ","$52,876          ",87:1          
+IBOC ,International Bancshares Corporation ,"$24,584          ",87:1          
+ALK ,"Alaska Air Group, Inc. ","$64,528          ",86:1          
+ALLY ,Ally Financial Inc. ,"$123,305          ",86:1          
+VAR ,"Varian Medical Systems, Inc. ","$109,548          ",86:1          
+OXY ,Occidental Petroleum Corporation ,"$185,259          ",86:1          
+JNPR ,"Juniper Networks, Inc. ","$129,616          ",86:1          
+CHRW ,"C.H. Robinson Worldwide, Inc. ","$59,086          ",86:1          
+TWNK ,"Hostess Brands, Inc. ","$52,734          ",86:1          
+CVBF ,CVB Financial Corp. ,"$83,740          ",86:1          
+EPAY ,"Bottomline Technologies (de), Inc. ","$97,764          ",86:1          
+ESS ,"Essex Property Trust, Inc. ","$74,338          ",86:1          
+RDNT ,"RadNet, Inc. ","$35,338          ",86:1          
+CSGS ,"CSG Systems International, Inc. ","$71,570          ",85:1          
+BMCH ,"BMC Stock Holdings, Inc. ","$42,450          ",85:1          
+BNFT ,"Benefitfocus, Inc. ","$79,410          ",85:1          
+PBCT ,"People's United Financial, Inc. ","$68,190          ",85:1          
+LBRDK ,Liberty Broadband Corp. ,"$147,122          ",85:1          
+CFR ,"Cullen/Frost Bankers, Inc. ","$56,246          ",85:1          
+CSGS ,"CSG Systems International, Inc. ","$71,570          ",85:1          
+MTB ,M&T Bank Corporation ,"$66,768          ",85:1          
+RUTH ,"Ruth's Hospitality Group, Inc. ","$33,330          ",85:1          
+GL ,Globe Life Inc. ,"$98,507          ",85:1          
+RBBN ,"Ribbon Communications, Inc. ","$93,889          ",85:1          
+WLDN ,"Willdan Group, Inc. ","$56,479          ",85:1          
+IBKC ,IBERIABANK Corp. ,"$62,049          ",85:1          
+ISBC ,"Investors Bancorp, Inc. ","$63,563          ",85:1          
+SLM ,SLM Corporation ,"$72,550          ",84:1          
+UFS ,Domtar Corporation ,"$81,678          ",84:1          
+ATNI ,"ATN International, Inc. ","$34,327          ",84:1          
+XLNX ,"Xilinx, Inc. ","$133,233          ",84:1          
+CENT ,Central Garden & Pet Company ,"$43,543          ",84:1          
+DVN ,Devon Energy Corporation ,"$164,100          ",84:1          
+URI ,"United Rentals, Inc. ","$73,881          ",84:1          
+UFS ,Domtar Corporation ,"$81,678          ",84:1          
+LSCC ,Lattice Semiconductor Corporation ,"$85,974          ",84:1          
+OTTR ,Otter Tail Corporation ,"$68,324          ",84:1          
+PRSP ,"Perspecta, Inc. ","$77,250          ",83:1          
+ALKS ,Alkermes Plc ,"$177,189          ",83:1          
+AMWD ,American Woodmark Corporation ,"$3,553,931          ",83:1          
+SCHL ,Scholastic Corporation ,"$33,034          ",83:1          
+NOVT ,Novanta Inc. ,"$48,792          ",83:1          
+CUB ,Cubic Corporation ,"$71,033          ",83:1          
+LAMR ,Lamar Advertising Company ,"$59,550          ",83:1          
+STLD ,"Steel Dynamics, Inc. ","$127,630          ",83:1          
+VRTX ,Vertex Pharmaceuticals Incorporated ,"$227,653          ",83:1          
+TER ,"Teradyne, Inc. ","$97,185          ",82:1          
+VG ,Vonage Holdings Corp. ,"$113,097          ",82:1          
+VST ,Vistra Corp. ,"$117,549          ",82:1          
+CME ,CME Group Inc. ,"$145,478          ",82:1          
+SSP ,The E.W. Scripps Co. ,"$54,392          ",82:1          
+CXO ,Concho Resources Inc. ,"$157,850          ",82:1          
+PACW ,PacWest Bancorp ,"$85,821          ",82:1          
+LOGM ,"LogMeIn, Inc. ","$111,065          ",81:1          
+TSE ,Trinseo SA ,"$84,362          ",81:1          
+BXS ,BancorpSouth Bank ,"$56,583          ",81:1          
+CC ,The Chemours Co. ,"$95,254          ",81:1          
+SIVB ,SVB Financial Group ,"$132,157          ",81:1          
+PQG ,"PQ Group Holdings, Inc. ","$67,636          ",81:1          
+TCBK ,TriCo Bancshares ,"$57,673          ",81:1          
+HBB ,Hamilton Beach Brands Holding Co. ,"$29,619          ",81:1          
+KRC ,Kilroy Realty Corporation ,"$150,436          ",81:1          
+LOGM ,"LogMeIn, Inc. ","$111,065          ",81:1          
+ACGL ,Arch Capital Group Ltd. ,"$112,111          ",80:1          
+ALXN ,"Alexion Pharmaceuticals, Inc. ","$237,151          ",80:1          
+NRG ,"NRG Energy, Inc. ","$114,883          ",80:1          
+BCOR ,"Blucora, Inc. ","$92,642          ",80:1          
+UCBI ,"United Community Banks, Inc. ","$45,914          ",80:1          
+BRKS ,"Brooks Automation, Inc. ","$49,619          ",80:1          
+MED ,"Medifast, Inc. ","$58,478          ",80:1          
+LFVN ,LifeVantage Corporation ,"$62,658          ",80:1          
+ETH ,Ethan Allen Interiors Inc. ,"$34,835          ",80:1          
+FI ,Frank's International NV ,"$52,412          ",80:1          
+GLUU ,Glu Mobile Inc. ,"$89,738          ",80:1          
+NRG ,"NRG Energy, Inc. ","$114,883          ",80:1          
+UCBI ,"United Community Banks, Inc. ","$45,914          ",80:1          
+AROC ,"Archrock, Inc. ","$77,762          ",79:1          
+SNV ,Synovus Financial Corp. ,"$65,896          ",79:1          
+CHH ,"Choice Hotels International, Inc. ","$86,605          ",79:1          
+TTD ,"The Trade Desk, Inc. ","$154,323          ",79:1          
+CVNA ,Carvana Co. ,"$37,440          ",79:1          
+SITC ,SITE Centers Corp. ,"$84,580          ",79:1          
+SYNA ,Synaptics Incorporated ,"$93,079          ",79:1          
+PXD ,Pioneer Natural Resources Company ,"$171,525          ",79:1          
+PBH ,"Prestige Consumer Healthcare, Inc. ","$64,073          ",79:1          
+FTNT ,"Fortinet, Inc. ","$122,329          ",79:1          
+SONO ,"Sonos, Inc. ","$145,694          ",79:1          
+SXI ,Standex International Corporation ,"$41,030          ",79:1          
+UBSI ,"United Bankshares, Inc. ","$56,017          ",78:1          
+AOBC ,"Smith & Wesson Brands, Inc. ","$48,106          ",78:1          
+AZPN ,"Aspen Technology, Inc. ","$93,493          ",78:1          
+NSIT ,"Insight Enterprises, Inc. ","$77,374          ",78:1          
+DDS ,"Dillard's, Inc. ","$24,631          ",78:1          
+DLR ,"Digital Realty Trust, Inc. ","$157,229          ",78:1          
+BFAM ,"Bright Horizons Family Solutions, Inc. ","$24,695          ",77:1          
+CACI ,CACI International Inc ,"$105,607          ",77:1          
+TRHC ,"Tabula Rasa Healthcare, Inc. ","$66,709          ",77:1          
+RNG ,"RingCentral, Inc. ","$127,834          ",77:1          
+UNIT ,"Uniti Group, Inc. ","$78,767          ",77:1          
+RIG ,Transocean Ltd. ,"$129,485          ",77:1          
+SRCL ,"Stericycle, Inc. ","$50,916          ",76:1          
+NSA ,National Storage Affiliates Trust ,"$29,830          ",76:1          
+LNN ,Lindsay Corporation ,"$56,163          ",76:1          
+SBNY ,Signature Bank ,"$103,787          ",76:1          
+SCSC ,"ScanSource, Inc. ","$46,599          ",76:1          
+O ,Realty Income Corporation ,"$99,644          ",76:1          
+HPP ,"Hudson Pacific Properties, Inc. ","$123,063          ",76:1          
+WERN ,"Werner Enterprises, Inc. ","$46,555          ",76:1          
+SWN ,Southwestern Energy Company ,"$135,138          ",76:1          
+QTS ,"QTS Realty Trust, Inc. ","$100,774          ",76:1          
+BEAT ,"BioTelemetry, Inc. ","$55,450          ",75:1          
+PRLB ,"Proto Labs, Inc. ","$44,100          ",75:1          
+CPT ,Camden Property Trust ,"$54,107          ",75:1          
+SPAR ,"The Shyft Group, Inc. ","$54,178          ",75:1          
+BEAT ,"BioTelemetry, Inc. ","$55,450          ",75:1          
+CHUY ,"Chuy's Holdings, Inc. ","$20,596          ",75:1          
+CPT ,Camden Property Trust ,"$54,107          ",75:1          
+ESNT ,Essent Group Ltd. ,"$107,395          ",75:1          
+PRLB ,"Proto Labs, Inc. ","$44,100          ",75:1          
+TVTY ,"Tivity Health, Inc. ","$63,681          ",75:1          
+IMAX ,IMAX Corporation ,"$94,569          ",75:1          
+SPAR ,"The Shyft Group, Inc. ","$54,178          ",75:1          
+DY ,"Dycom Industries, Inc. ","$52,446          ",74:1          
+FSS ,Federal Signal Corporation ,"$64,251          ",74:1          
+OMCL ,"Omnicell, Inc. ","$96,782          ",74:1          
+OFG ,OFG Bancorp ,"$39,188          ",73:1          
+MAC ,The Macerich Company ,"$94,711          ",73:1          
+CCS ,"Century Communities, Inc. ","$122,197          ",73:1          
+CF ,"CF Industries Holdings, Inc. ","$119,957          ",73:1          
+MHK ,"Mohawk Industries, Inc. ","$42,999          ",73:1          
+CMS ,CMS Energy Corporation ,"$122,783          ",73:1          
+PDCO ,"Patterson Companies, Inc. ","$60,645          ",73:1          
+XPER ,Xperi Holding Corp. ,"$124,292          ",73:1          
+TFSL ,TFS Financial Corporation ,"$64,639          ",73:1          
+MAC ,The Macerich Company ,"$94,711          ",73:1          
+WEC ,"WEC Energy Group, Inc. ","$127,703          ",73:1          
+EOG ,"EOG Resources, Inc. ","$175,681          ",73:1          
+INGN ,"Inogen, Inc. ","$34,572          ",73:1          
+SNDR ,"Schneider National, Inc. ","$51,201          ",73:1          
+XEC ,Cimarex Energy Co. ,"$124,105          ",73:1          
+TFSL ,TFS Financial Corporation ,"$64,639          ",73:1          
+OFG ,OFG Bancorp ,"$39,188          ",73:1          
+AAWW ,"Atlas Air Worldwide Holdings, Inc. ","$106,763          ",72:1          
+QTWO ,"Q2 Holdings, Inc. ","$107,123          ",72:1          
+OFIX ,"Orthofix Medical, Inc. ","$70,281          ",72:1          
+MHO ,"M/I Homes, Inc. ","$74,582          ",72:1          
+COHU ,"Cohu, Inc. ","$35,123          ",72:1          
+EVRI ,"Everi Holdings, Inc. ","$71,751          ",72:1          
+FLIR ,"FLIR Systems, Inc. ","$76,714          ",72:1          
+NSTG ,"NanoString Technologies, Inc. ","$101,191          ",72:1          
+RGA ,"Reinsurance Group of America, Incorporated ","$113,479          ",72:1          
+WNC ,Wabash National Corporation ,"$61,291          ",72:1          
+IBP ,"Installed Building Products, Inc. ","$47,466          ",72:1          
+IMKTA ,"Ingles Markets, Inc. ","$17,119          ",72:1          
+TAP ,Molson Coors Beverage Company ,"$72,272          ",72:1          
+ALGT ,Allegiant Travel Company ,"$43,748          ",71:1          
+AWI ,"Armstrong World Industries, Inc. ","$72,220          ",71:1          
+COHR ,"Coherent, Inc. ","$69,018          ",71:1          
+ED ,"Consolidated Edison, Inc. ","$215,556          ",71:1          
+HES ,Hess Corporation ,"$190,250          ",71:1          
+PRO ,"PROS Holdings, Inc. ","$88,685          ",71:1          
+MSM ,"MSC Industrial Direct Co., Inc. ","$54,425          ",71:1          
+AJRD ,"Aerojet Rocketdyne Holdings, Inc. ","$104,407          ",70:1          
+VLY ,Valley National Bancorp ,"$56,449          ",70:1          
+ATGE ,Adtalem Global Education Inc. ,"$33,781          ",70:1          
+BCPC ,Balchem Corporation ,"$54,205          ",70:1          
+PNFP ,"Pinnacle Financial Partners, Inc. ","$70,266          ",70:1          
+CRK ,"Comstock Resources, Inc. ","$125,201          ",70:1          
+OIS ,"Oil States International, Inc. ","$63,560          ",70:1          
+TRMK ,Trustmark Corporation ,"$44,602          ",70:1          
+GPRE ,Green Plains Inc. ,"$70,098          ",70:1          
+HUBG ,"Hub Group, Inc. ","$63,429          ",70:1          
+JKHY ,"Jack Henry & Associates, Inc. ","$69,325          ",70:1          
+KALU ,Kaiser Aluminum Corporation ,"$74,554          ",70:1          
+AWK ,"American Water Works Company, Inc. ","$85,855          ",69:1          
+NCBS ,"Nicolet Bankshares, Inc. ","$40,540          ",69:1          
+CAMP ,CalAmp Corp. ,"$40,812          ",69:1          
+STMP ,Stamps.com Inc. ,"$82,928          ",69:1          
+FMBI ,"First Midwest Bancorp, Inc. ","$57,538          ",69:1          
+FRT ,Federal Realty Investment Trust ,"$111,105          ",69:1          
+HSC ,Harsco Corporation ,"$70,532          ",69:1          
+NX ,Quanex Building Products Corporation ,"$42,574          ",69:1          
+NVCR ,Novocure Ltd. ,"$102,687          ",69:1          
+ARES ,Ares Management Corporation ,"$185,000          ",68:1          
+ATRO ,Astronics Corporation ,"$55,655          ",68:1          
+CRC ,California Resources Corp. ,"$154,051          ",68:1          
+CRMT ,"America's Car-Mart, Inc. ","$45,250          ",68:1          
+DRQ ,"Dril-Quip, Inc. ","$64,200          ",68:1          
+RAMP ,"LiveRamp Holdings, Inc. ","$155,847          ",68:1          
+PEAK ,"Healthpeak Properties, Inc. ","$145,000          ",68:1          
+SGRY ,"Surgery Partners, Inc. ","$53,563          ",68:1          
+HLF ,Herbalife Nutrition Ltd. ,"$36,137          ",68:1          
+SJI ,"South Jersey Industries, Inc. ","$92,730          ",68:1          
+JAZZ ,Jazz Pharmaceuticals Plc ,"$214,881          ",68:1          
+SGRY ,"Surgery Partners, Inc. ","$53,563          ",68:1          
+AGNC ,AGNC Investment Corp. ,"$240,598          ",67:1          
+ZION ,"Zions Bancorporation, National Association ","$65,048          ",67:1          
+NTAP ,"NetApp, Inc. ","$198,620          ",67:1          
+BTU ,Peabody Energy Corporation ,"$113,592          ",67:1          
+OLN ,Olin Corporation ,"$107,139          ",67:1          
+EPAC ,Enerpac Tool Group Corp. ,"$58,859          ",67:1          
+EVC ,Entravision Communications Corporation ,"$40,000          ",67:1          
+JELD ,"JELD-WEN Holding, Inc. ","$82,003          ",67:1          
+AEE ,Ameren Corporation ,"$147,127          ",66:1          
+SSB ,South State Corporation ,"$48,823          ",66:1          
+BOOM ,"DMC Global, Inc. ","$40,661          ",66:1          
+WRI ,Weingarten Realty Investors ,"$96,414          ",66:1          
+CDW ,CDW Corp. ,"$93,452          ",66:1          
+EAF ,GrafTech International Ltd. ,"$35,981          ",66:1          
+ESE ,ESCO Technologies Inc. ,"$61,979          ",66:1          
+GNMK ,"GenMark Diagnostics, Inc. ","$61,695          ",66:1          
+POOL ,Pool Corporation ,"$50,095          ",66:1          
+SAIC ,Science Applications International Corp. ,"$93,568          ",66:1          
+JBLU ,JetBlue Airways Corporation ,"$59,647          ",66:1          
+SC ,"Santander Consumer USA Holdings, Inc. ","$54,633          ",66:1          
+SAIC ,Science Applications International Corp. ,"$93,568          ",66:1          
+JBLU ,JetBlue Airways Corporation ,"$59,647          ",66:1          
+USCR ,"U.S. Concrete, Inc. ","$76,861          ",65:1          
+CDE ,"Coeur Mining, Inc. ","$53,734          ",65:1          
+DFIN ,"Donnelley Financial Solutions, Inc. ","$66,748          ",65:1          
+SGEN ,"Seattle Genetics, Inc. ","$222,352          ",65:1          
+EXP ,Eagle Materials Inc. ,"$77,107          ",65:1          
+FIX ,"Comfort Systems USA, Inc. ","$52,315          ",65:1          
+FOLD ,"Amicus Therapeutics, Inc. ","$152,717          ",65:1          
+SBSI ,"Southside Bancshares, Inc. ","$40,687          ",65:1          
+MLAB ,"Mesa Laboratories, Inc. ","$50,054          ",65:1          
+HMN ,Horace Mann Educators Corporation ,"$65,511          ",65:1          
+IRT ,"Independence Realty Trust, Inc. ","$59,944          ",65:1          
+NKTR ,Nektar Therapeutics ,"$152,663          ",65:1          
+SWX ,"Southwest Gas Holdings, Inc. ","$89,861          ",65:1          
+AXS ,Axis Capital Holdings Limited ,"$144,000          ",64:1          
+RICK ,"RCI Hospitality Holdings, Inc. ","$17,617          ",64:1          
+BAH ,Booz Allen Hamilton Holding Corporation ,"$126,696          ",64:1          
+COR ,CoreSite Realty Corporation ,"$84,096          ",64:1          
+BRKR ,Bruker Corporation ,"$76,488          ",64:1          
+CENX ,Century Aluminum Company ,"$81,577          ",64:1          
+COR ,CoreSite Realty Corporation ,"$84,096          ",64:1          
+EBF ,"Ennis, Inc. ","$48,891          ",64:1          
+VSTO ,"Vista Outdoor, Inc. ","$60,108          ",64:1          
+SSD ,"Simpson Manufacturing Co., Inc. ","$52,685          ",64:1          
+PINC ,"Premier, Inc. (North Carolina) ","$120,578          ",64:1          
+TWLO ,"Twilio, Inc. ","$191,956          ",64:1          
+RICK ,"RCI Hospitality Holdings, Inc. ","$17,617          ",64:1          
+TDC ,Teradata Corporation ,"$76,892          ",64:1          
+IOSP ,Innospec Inc. ,"$95,352          ",64:1          
+BDN ,Brandywine Realty Trust ,"$84,491          ",63:1          
+CBSH ,"Commerce Bancshares, Inc. ","$58,414          ",63:1          
+CIR ,"CIRCOR International, Inc. ","$54,126          ",63:1          
+NNN ,"National Retail Properties, Inc. ","$98,819          ",63:1          
+COLB ,"Columbia Banking System, Inc. ","$55,654          ",63:1          
+SITE ,"SiteOne Landscape Supply, Inc. ","$47,840          ",63:1          
+GNTX ,Gentex Corporation ,"$48,462          ",63:1          
+RRR ,"Red Rock Resorts, Inc. ","$31,003          ",63:1          
+LPX ,Louisiana-Pacific Corporation ,"$88,196          ",63:1          
+INTL ,INTL FCStone Inc. ,"$93,086          ",63:1          
+SITE ,"SiteOne Landscape Supply, Inc. ","$47,840          ",63:1          
+LPX ,Louisiana-Pacific Corporation ,"$88,196          ",63:1          
+LSTR ,"Landstar System, Inc. ","$42,125          ",63:1          
+ADSW ,"Advanced Disposal Services, Inc. ","$57,668          ",62:1          
+UMBF ,UMB Financial Corporation ,"$65,610          ",62:1          
+AGIO ,"Agios Pharmaceuticals, Inc. ","$267,104          ",62:1          
+CASS ,"Cass Information Systems, Inc. ","$54,427          ",62:1          
+CLH ,"Clean Harbors, Inc. ","$65,894          ",62:1          
+EIX ,Edison International ,"$190,935          ",62:1          
+SAVE ,"Spirit Airlines, Inc. ","$54,482          ",62:1          
+FBC ,"Flagstar Bancorp, Inc. ","$55,996          ",62:1          
+FCNCA ,"First Citizens BancShares, Inc. ","$64,543          ",62:1          
+FHN ,First Horizon National Corporation ,"$89,476          ",62:1          
+MRC ,MRC Global Inc. ,"$88,682          ",62:1          
+FULT ,Fulton Financial Corporation ,"$48,922          ",62:1          
+GDOT ,Green Dot Corporation ,"$102,037          ",62:1          
+HMSY ,HMS Holdings Corp. ,"$88,669          ",62:1          
+SAM ,"The Boston Beer Company, Inc. ","$67,750          ",62:1          
+KRG ,Kite Realty Group Trust ,"$96,430          ",62:1          
+MRC ,MRC Global Inc. ,"$88,682          ",62:1          
+PUMP ,ProPetro Holding Corp. ,"$90,148          ",61:1          
+THFF ,First Financial Corporation ,"$49,091          ",61:1          
+CONE ,"CyrusOne, Inc. ","$115,693          ",61:1          
+COUP ,"Coupa Software, Inc. ","$174,198          ",61:1          
+ETFC ,E*TRADE Financial Corporation ,"$98,271          ",61:1          
+PRFT ,"Perficient, Inc. ","$98,094          ",61:1          
+FORM ,"FormFactor, Inc. ","$65,762          ",61:1          
+HEES ,"H&E Equipment Services, Inc. ","$50,752          ",61:1          
+IRBT ,iRobot Corporation ,"$109,610          ",61:1          
+AAON ,"AAON, Inc. ","$45,363          ",60:1          
+ATSG ,"Air Transport Services Group, Inc. ","$52,972          ",60:1          
+NI ,NiSource Inc. ,"$110,318          ",60:1          
+BANC ,"Banc of California, Inc. ","$85,000          ",60:1          
+CNXN ,"PC Connection, Inc. ","$67,573          ",60:1          
+FCN ,"FTI Consulting, Inc. ","$121,383          ",60:1          
+NDSN ,Nordson Corporation ,"$57,335          ",60:1          
+STFC ,State Auto Financial Corporation ,"$83,612          ",60:1          
+GPOR ,Gulfport Energy Corporation ,"$107,741          ",60:1          
+HMHC ,Houghton Mifflin Harcourt Company ,"$78,237          ",60:1          
+ENPH ,"Enphase Energy, Inc. ","$64,872          ",60:1          
+ESGR ,Enstar Group Limited ,"$91,821          ",60:1          
+FCN ,"FTI Consulting, Inc. ","$121,383          ",60:1          
+PPBI ,"Pacific Premier Bancorp, Inc. ","$88,677          ",60:1          
+GPOR ,Gulfport Energy Corporation ,"$107,741          ",60:1          
+VER ,"VEREIT, Inc. ","$113,700          ",60:1          
+HMHC ,Houghton Mifflin Harcourt Company ,"$78,237          ",60:1          
+INCY ,Incyte Corporation ,"$254,237          ",60:1          
+RRC ,Range Resources Corporation ,"$140,000          ",60:1          
+LM ,"Legg Mason, Inc. ","$165,165          ",60:1          
+AMEH ,"Apollo Medical Holdings, Inc. ","$42,506          ",59:1          
+APY ,ChampionX Corp. ,"$69,120          ",59:1          
+UMPQ ,Umpqua Holdings Corporation ,"$61,072          ",59:1          
+UHAL ,AMERCO ,"$17,280          ",59:1          
+HNI ,HNI Corporation ,"$71,332          ",59:1          
+HOG ,"Harley-Davidson, Inc. ","$187,157          ",59:1          
+SPLK ,Splunk Inc. ,"$264,305          ",59:1          
+STRL ,"Sterling Construction Company, Inc. ","$61,898          ",59:1          
+TDY ,Teledyne Technologies Incorporated ,"$65,046          ",59:1          
+MIC ,Macquarie Infrastructure Corporation ,"$49,827          ",59:1          
+KOP ,Koppers Holdings Inc. ,"$80,157          ",59:1          
+MIC ,Macquarie Infrastructure Corporation ,"$49,827          ",59:1          
+SPLK ,Splunk Inc. ,"$264,305          ",59:1          
+AEL ,American Equity Investment Life Holding Company ,"$76,795          ",58:1          
+RYAM ,"Rayonier Advanced Materials, Inc. ","$127,402          ",58:1          
+NP ,"Neenah, Inc. ","$56,116          ",58:1          
+AMZN ,"Amazon.com, Inc. ","$28,848          ",58:1          
+ANIK ,"Anika Therapeutics, Inc. ","$97,018          ",58:1          
+VEC ,"Vectrus, Inc. ","$52,694          ",58:1          
+BRX ,"Brixmor Property Group, Inc. ","$106,908          ",58:1          
+CARS ,"Cars.com, Inc. ","$78,443          ",58:1          
+CINF ,Cincinnati Financial Corporation ,"$96,112          ",58:1          
+CKH ,SEACOR Holdings Inc. ,"$54,648          ",58:1          
+DDD ,3D Systems Corporation ,"$58,608          ",58:1          
+WOR ,"Worthington Industries, Inc. ","$64,725          ",58:1          
+OGE ,OGE Energy Corp. ,"$110,779          ",58:1          
+IRTC ,"iRhythm Technologies, Inc. ","$82,405          ",58:1          
+MYE ,"Myers Industries, Inc. ","$39,929          ",58:1          
+FOXF ,Fox Factory Holding Corp. ,"$42,576          ",57:1          
+HOME ,"At Home Group, Inc. ","$17,608          ",57:1          
+BWXT ,"BWX Technologies, Inc. ","$88,538          ",57:1          
+REGI ,"Renewable Energy Group, Inc. ","$79,339          ",57:1          
+DTE ,DTE Energy Company ,"$153,976          ",57:1          
+FOXF ,Fox Factory Holding Corp. ,"$42,576          ",57:1          
+TILE ,"Interface, Inc. ","$59,960          ",57:1          
+HOME ,"At Home Group, Inc. ","$17,608          ",57:1          
+LL ,"Lumber Liquidators Holdings, Inc. ","$41,951          ",57:1          
+MGI ,"MoneyGram International, Inc. ","$65,722          ",57:1          
+MTSC ,MTS Systems Corporation ,"$55,799          ",57:1          
+NEOG ,Neogen Corporation ,"$34,497          ",57:1          
+ANDE ,"The Andersons, Inc. ","$77,572          ",56:1          
+CCMP ,Cabot Microelectronics Corporation ,"$84,408          ",56:1          
+PAHC ,Phibro Animal Health Corporation ,"$48,810          ",56:1          
+CRS ,Carpenter Technology Corporation ,"$84,933          ",56:1          
+CSOD ,"Cornerstone OnDemand, Inc. ","$140,187          ",56:1          
+PDCE ,"PDC Energy, Inc. ","$137,371          ",56:1          
+VBTX ,"Veritex Holdings, Inc. ","$70,000          ",56:1          
+FFIN ,"First Financial Bankshares, Inc. ","$35,101          ",56:1          
+OPY ,Oppenheimer Holdings Inc. ,"$104,500          ",56:1          
+SNR ,"New Senior Investment Group, Inc. ","$203,426          ",56:1          
+FFIN ,"First Financial Bankshares, Inc. ","$35,101          ",56:1          
+QDEL ,Quidel Corporation ,"$74,906          ",56:1          
+VBTX ,"Veritex Holdings, Inc. ","$70,000          ",56:1          
+REXR ,"Rexford Industrial Realty, Inc. ","$107,693          ",56:1          
+PAHC ,Phibro Animal Health Corporation ,"$48,810          ",56:1          
+HOPE ,"Hope Bancorp, Inc. ","$48,232          ",56:1          
+SNR ,"New Senior Investment Group, Inc. ","$203,426          ",56:1          
+KEX ,Kirby Corporation ,"$83,595          ",56:1          
+LGF.A ,Lions Gate Entertainment Corp. ,"$117,628          ",56:1          
+LNT ,Alliant Energy Corporation ,"$138,044          ",56:1          
+CAC ,Camden National Corporation ,"$48,334          ",55:1          
+CASH ,"Meta Financial Group, Inc. ","$75,521          ",55:1          
+CBZ ,"CBIZ, Inc. ","$70,065          ",55:1          
+DOC ,Physicians Realty Trust ,"$89,670          ",55:1          
+DRE ,Duke Realty Corporation ,"$122,714          ",55:1          
+WBS ,Webster Financial Corporation ,"$65,227          ",55:1          
+FHI ,"Federated Hermes, Inc. ","$103,903          ",55:1          
+QNST ,"QuinStreet, Inc. ","$61,800          ",55:1          
+HZNP ,Horizon Therapeutics Plc ,"$250,565          ",55:1          
+STOR ,STORE Capital Corp. ,"$136,380          ",55:1          
+QNST ,"QuinStreet, Inc. ","$61,800          ",55:1          
+AIR ,AAR Corp. ,"$61,560          ",54:1          
+OII ,"Oceaneering International, Inc. ","$67,380          ",54:1          
+ARE ,"Alexandria Real Estate Equities, Inc. ","$155,000          ",54:1          
+RPT ,RPT Realty ,"$83,548          ",54:1          
+BOKF ,BOK Financial Corporation ,"$70,319          ",54:1          
+CABO ,"Cable One, Inc. ","$49,978          ",54:1          
+CVA ,Covanta Holding Corporation ,"$102,569          ",54:1          
+DORM ,"Dorman Products, Inc. ","$39,561          ",54:1          
+FFG ,"FBL Financial Group, Inc. ","$65,736          ",54:1          
+FFIV ,"F5 Networks, Inc. ","$176,749          ",54:1          
+SXC ,"SunCoke Energy, Inc. ","$89,560          ",54:1          
+GMS ,"GMS, Inc. ","$58,859          ",54:1          
+PFBC ,Preferred Bank ,"$86,955          ",54:1          
+JEF ,Jefferies Financial Group Inc. ,"$170,000          ",54:1          
+LAZ ,Lazard Ltd ,"$195,170          ",54:1          
+MWA ,"Mueller Water Products, Inc. ","$55,478          ",54:1          
+NPO ,"EnPro Industries, Inc. ","$50,645          ",54:1          
+REG ,Regency Centers Corporation ,"$101,379          ",53:1          
+CMCO ,Columbus McKinnon Corporation ,"$49,953          ",53:1          
+AX ,"Axos Financial, Inc. ","$91,000          ",53:1          
+CEIX ,CONSOL Energy Inc. ,"$122,804          ",53:1          
+CGNX ,Cognex Corporation ,"$72,959          ",53:1          
+CMCO ,Columbus McKinnon Corporation ,"$49,953          ",53:1          
+PCH ,PotlatchDeltic Corporation ,"$87,487          ",53:1          
+REG ,Regency Centers Corporation ,"$101,379          ",53:1          
+WTTR ,"Select Energy Services, Inc. ","$74,114          ",53:1          
+WDAY ,"Workday, Inc. ","$198,576          ",53:1          
+GLIBA ,"GCI Liberty, Inc. ","$72,830          ",53:1          
+RE ,"Everest Re Group, Ltd. ","$144,915          ",53:1          
+WGO ,"Winnebago Industries, Inc. ","$52,881          ",53:1          
+PFPT ,"Proofpoint, Inc. ","$157,971          ",53:1          
+MTRN ,Materion Corporation ,"$95,168          ",53:1          
+ATRC ,"AtriCure, Inc. ","$112,580          ",52:1          
+AUB ,Atlantic Union Bankshares Corp. ,"$47,733          ",52:1          
+CNBKA ,"Century Bancorp, Inc. ","$52,025          ",52:1          
+EVH ,"Evolent Health, Inc. ","$79,808          ",52:1          
+RAVN ,"Raven Industries, Inc. ","$49,217          ",52:1          
+RNR ,RenaissanceRe Holdings Ltd. ,"$208,241          ",52:1          
+GSBC ,"Great Southern Bancorp, Inc. ","$30,117          ",52:1          
+RNR ,RenaissanceRe Holdings Ltd. ,"$208,241          ",52:1          
+CNBKA ,"Century Bancorp, Inc. ","$52,025          ",52:1          
+EGP ,"EastGroup Properties, Inc. ","$90,162          ",52:1          
+EIG ,"Employers Holdings, Inc. ","$92,293          ",52:1          
+EVH ,"Evolent Health, Inc. ","$79,808          ",52:1          
+PODD ,Insulet Corporation ,"$113,721          ",52:1          
+GSBC ,"Great Southern Bancorp, Inc. ","$30,117          ",52:1          
+QUOT ,"Quotient Technology, Inc. ","$70,541          ",52:1          
+LBRT ,"Liberty Oilfield Services, Inc. ","$103,824          ",52:1          
+MINI ,"Mobile Mini, Inc. ","$70,292          ",52:1          
+NBHC ,National Bank Holdings Corporation ,"$52,757          ",52:1          
+NEX ,"NexTier Oilfield Solutions, Inc. ","$115,735          ",52:1          
+OEC ,Orion Engineered Carbons SA ,"$72,403          ",52:1          
+VRNS ,"Varonis Systems, Inc. ","$166,759          ",51:1          
+BZH ,"Beazer Homes USA, Inc. ","$101,513          ",51:1          
+GWB ,"Great Western Bancorp, Inc. ","$48,822          ",51:1          
+SAIA ,"Saia, Inc. ","$68,263          ",51:1          
+HWC ,Hancock Whitney Corporation ,"$77,273          ",51:1          
+WIRE ,Encore Wire Corporation ,"$56,806          ",51:1          
+NR ,"Newpark Resources, Inc. ","$55,770          ",51:1          
+WIRE ,Encore Wire Corporation ,"$56,806          ",51:1          
+THG ,"The Hanover Insurance Group, Inc. ","$97,544          ",51:1          
+HWC ,Hancock Whitney Corporation ,"$77,273          ",51:1          
+INDB ,Independent Bank Corp. ,"$73,293          ",51:1          
+JBGS ,JBG SMITH Properties ,"$95,058          ",51:1          
+SAIA ,"Saia, Inc. ","$68,263          ",51:1          
+NR ,"Newpark Resources, Inc. ","$55,770          ",51:1          
+NVR ,"NVR, Inc. ","$78,448          ",51:1          
+TIPT ,Tiptree Inc. ,"$60,026          ",50:1          
+ATH ,Athene Holding Ltd. ,"$85,259          ",50:1          
+CHEF ,"The Chefs' Warehouse, Inc. ","$56,051          ",50:1          
+CLW ,Clearwater Paper Corporation ,"$77,573          ",50:1          
+VRSN ,"VeriSign, Inc. ","$180,475          ",50:1          
+FEYE ,"FireEye, Inc. ","$156,004          ",50:1          
+FLO ,"Flowers Foods, Inc. ","$75,995          ",50:1          
+TISI ,"Team, Inc. ","$73,895          ",50:1          
+USX ,"US Xpress Enterprises, Inc. ","$48,030          ",50:1          
+MCRI ,"Monarch Casino & Resort, Inc. ","$34,101          ",50:1          
+MITK ,"Mitek Systems, Inc. ","$101,639          ",50:1          
+NGVT ,Ingevity Corp. ,"$79,510          ",50:1          
+USX ,"US Xpress Enterprises, Inc. ","$48,030          ",50:1          
+NGVT ,Ingevity Corp. ,"$79,510          ",50:1          
+OCFC ,OceanFirst Financial Corp. ,"$58,010          ",50:1          
+AVYA ,Avaya Holdings Corp. ,"$88,065          ",49:1          
+CBOE ,"Cboe Global Markets, Inc. ","$166,086          ",49:1          
+DXPE ,"DXP Enterprises, Inc. ","$57,055          ",49:1          
+FIBK ,"First Interstate BancSystem, Inc. ","$45,897          ",49:1          
+TNET ,"TriNet Group, Inc. ","$115,507          ",49:1          
+SCCO ,Southern Copper Corporation ,"$33,321          ",49:1          
+HCC ,"Warrior Met Coal, Inc. ","$82,389          ",49:1          
+RPD ,"Rapid7, Inc. ","$115,500          ",49:1          
+KRA ,Kraton Corporation ,"$109,847          ",49:1          
+WPC ,W. P. Carey Inc. ,"$141,718          ",49:1          
+LMNR ,Limoneira Company ,"$33,197          ",49:1          
+WAFD ,"Washington Federal, Inc. ","$46,118          ",49:1          
+NEO ,"NeoGenomics, Inc. ","$74,903          ",49:1          
+ROIC ,Retail Opportunity Investments Corp. ,"$123,689          ",49:1          
+ROKU ,"Roku, Inc. ","$258,941          ",49:1          
+UFI ,"Unifi, Inc. ","$33,685          ",48:1          
+HR ,Healthcare Realty Trust Incorporated ,"$70,000          ",48:1          
+AMBA ,"Ambarella, Inc. ","$107,103          ",48:1          
+SPSC ,"SPS Commerce, Inc. ","$76,511          ",48:1          
+CCBG ,"Capital City Bank Group, Inc. ","$41,022          ",48:1          
+RWT ,"Redwood Trust, Inc. ","$141,500          ",48:1          
+CLDT ,Chatham Lodging Trust ,"$97,379          ",48:1          
+PTVCB ,Protective Insurance Corporation ,"$63,334          ",48:1          
+FRGI ,"Fiesta Restaurant Group, Inc. ","$14,241          ",48:1          
+HR ,Healthcare Realty Trust Incorporated ,"$70,000          ",48:1          
+HST ,"Host Hotels & Resorts, Inc. ","$197,781          ",48:1          
+UFI ,"Unifi, Inc. ","$33,685          ",48:1          
+JBSS ,"John B. Sanfilippo & Son, Inc. ","$54,427          ",48:1          
+LMNX ,Luminex Corporation ,"$70,787          ",48:1          
+LNDC ,Landec Corporation ,"$54,262          ",48:1          
+SRNE ,"Sorrento Therapeutics, Inc. ","$94,459          ",48:1          
+NFG ,National Fuel Gas Company ,"$84,849          ",48:1          
+NUVA ,"NuVasive, Inc. ","$111,880          ",48:1          
+ONB ,Old National Bancorp ,"$58,756          ",48:1          
+TYL ,"Tyler Technologies, Inc. ","$87,564          ",48:1          
+VREX ,Varex Imaging Corp. ,"$67,062          ",47:1          
+WMS ,"Advanced Drainage Systems, Inc. ","$123,459          ",47:1          
+CSWI ,"CSW Industrials, Inc. ","$81,470          ",47:1          
+CWST ,"Casella Waste Systems, Inc. ","$58,527          ",47:1          
+WMS ,"Advanced Drainage Systems, Inc. ","$123,459          ",47:1          
+RILY ,"B. Riley Financial, Inc. ","$105,300          ",47:1          
+ERIE ,Erie Indemnity Co. ,"$90,924          ",47:1          
+TCBI ,"Texas Capital Bancshares, Inc. ","$88,658          ",47:1          
+HRI ,"Herc Holdings, Inc. ","$89,161          ",47:1          
+JOUT ,Johnson Outdoors Inc. ,"$55,057          ",47:1          
+WSBC ,"WesBanco, Inc. ","$48,833          ",47:1          
+PLUG ,Plug Power Inc. ,"$78,621          ",47:1          
+MORN ,"Morningstar, Inc. ","$83,455          ",47:1          
+NHC ,National HealthCare Corporation ,"$30,389          ",47:1          
+VREX ,Varex Imaging Corp. ,"$67,062          ",47:1          
+CCNE ,CNB Financial Corporation ,"$36,768          ",46:1          
+HA ,"Hawaiian Holdings, Inc. ","$69,565          ",46:1          
+MRCY ,"Mercury Systems, Inc. ","$91,667          ",46:1          
+MTG ,MGIC Investment Corporation ,"$149,146          ",46:1          
+NBTB ,NBT Bancorp Inc. ,"$51,484          ",46:1          
+NTUS ,Natus Medical Incorporated ,"$72,197          ",46:1          
+PEGA ,Pegasystems Inc. ,"$128,252          ",46:1          
+MTG ,MGIC Investment Corporation ,"$149,146          ",46:1          
+NBTB ,NBT Bancorp Inc. ,"$51,484          ",46:1          
+NTUS ,Natus Medical Incorporated ,"$72,197          ",46:1          
+PEGA ,Pegasystems Inc. ,"$128,252          ",46:1          
+BMI ,"Badger Meter, Inc. ","$36,733          ",45:1          
+FFBC ,First Financial Bancorp (Ohio) ,"$57,690          ",45:1          
+WTRG ,"Essential Utilities, Inc. ","$129,309          ",45:1          
+HOFT ,Hooker Furniture Corporation ,"$34,493          ",45:1          
+RGR ,"Sturm, Ruger & Company, Inc. ","$42,705          ",45:1          
+HURC ,"Hurco Companies, Inc. ","$60,760          ",45:1          
+ALE ,"ALLETE, Inc. ","$107,327          ",44:1          
+BANR ,Banner Corporation ,"$51,133          ",44:1          
+BUSE ,First Busey Corporation ,"$50,009          ",44:1          
+CHCO ,City Holding Company ,"$34,955          ",44:1          
+CSII ,"Cardiovascular Systems, Inc. ","$104,524          ",44:1          
+TPH ,"TRI Pointe Group, Inc. ","$123,320          ",44:1          
+TALO ,"Talos Energy, Inc. ","$126,767          ",44:1          
+MDB ,"MongoDB, Inc. ","$213,800          ",44:1          
+RYN ,Rayonier Inc. ,"$106,120          ",44:1          
+MXL ,"MaxLinear, Inc. ","$105,879          ",44:1          
+INN ,"Summit Hotel Properties, Inc. ","$114,566          ",44:1          
+KAMN ,Kaman Corporation ,"$89,577          ",44:1          
+MDB ,"MongoDB, Inc. ","$213,800          ",44:1          
+TPH ,"TRI Pointe Group, Inc. ","$123,320          ",44:1          
+MXL ,"MaxLinear, Inc. ","$105,879          ",44:1          
+AL ,Air Lease Corporation ,"$185,375          ",43:1          
+CCF ,Chase Corporation ,"$43,598          ",43:1          
+CNR ,"Cornerstone Building Brands, Inc. ","$46,453          ",43:1          
+CORE ,"Core-Mark Holding Company, Inc. ","$47,261          ",43:1          
+CPK ,Chesapeake Utilities Corporation ,"$78,064          ",43:1          
+SSTK ,"Shutterstock, Inc. ","$108,148          ",43:1          
+SHEN ,Shenandoah Telecommunications Company ,"$58,410          ",43:1          
+HHC ,The Howard Hughes Corporation ,"$47,395          ",43:1          
+HLX ,"Helix Energy Solutions Group, Inc. ","$124,262          ",43:1          
+LC ,LendingClub Corp. ,"$143,414          ",43:1          
+LKFN ,Lakeland Financial Corporation ,"$37,063          ",43:1          
+MGRC ,McGrath RentCorp ,"$59,089          ",43:1          
+PEB ,Pebblebrook Hotel Trust ,"$117,439          ",43:1          
+CRUS ,"Cirrus Logic, Inc. ","$144,504          ",42:1          
+GMED ,"Globus Medical, Inc. ","$81,705          ",42:1          
+TOWN ,TowneBank ,"$55,268          ",42:1          
+CRUS ,"Cirrus Logic, Inc. ","$144,504          ",42:1          
+DNKN ,"Dunkin' Brands Group, Inc. ","$128,265          ",42:1          
+FR ,"First Industrial Realty Trust, Inc. ","$104,061          ",42:1          
+RYI ,Ryerson Holding Corporation ,"$56,347          ",42:1          
+GBCI ,"Glacier Bancorp, Inc. ","$47,566          ",42:1          
+GMED ,"Globus Medical, Inc. ","$81,705          ",42:1          
+HZO ,"MarineMax, Inc. ","$55,024          ",42:1          
+MANT ,ManTech International Corporation ,"$90,387          ",42:1          
+XENT ,"Intersect ENT, Inc. ","$181,575          ",42:1          
+SAFT ,"Safety Insurance Group, Inc. ","$80,284          ",41:1          
+ATRI ,Atrion Corporation ,"$40,054          ",41:1          
+VSEC ,VSE Corporation ,"$49,476          ",41:1          
+CBB ,Cincinnati Bell Inc. ,"$75,839          ",41:1          
+CMTL ,Comtech Telecommunications Corp. ,"$91,937          ",41:1          
+EGHT ,"8x8, Inc. ","$136,806          ",41:1          
+THR ,"Thermon Group Holdings, Inc. ","$53,926          ",41:1          
+IDA ,"IDACORP, Inc. ","$201,368          ",41:1          
+IMMR ,Immersion Corporation ,"$122,185          ",41:1          
+TREX ,"Trex Company, Inc. ","$68,243          ",41:1          
+ISRG ,"Intuitive Surgical, Inc. ","$157,267          ",41:1          
+OFC ,Corporate Office Properties Trust ,"$104,974          ",41:1          
+SAFT ,"Safety Insurance Group, Inc. ","$80,284          ",41:1          
+BDGE ,"Bridge Bancorp, Inc. ","$59,756          ",40:1          
+CLDR ,"Cloudera, Inc. ","$183,651          ",40:1          
+COWN ,"Cowen, Inc. ","$185,000          ",40:1          
+CPF ,Central Pacific Financial Corp. ,"$62,237          ",40:1          
+RST ,Rosetta Stone Inc. ,"$50,784          ",40:1          
+ETRN ,Equitrans Midstream Corp. ,"$125,578          ",40:1          
+GLDD ,Great Lakes Dredge & Dock Corporation ,"$95,938          ",40:1          
+HFC ,HollyFrontier Corporation ,"$129,232          ",40:1          
+HL ,Hecla Mining Company ,"$125,810          ",40:1          
+HURN ,Huron Consulting Group Inc. ,"$122,105          ",40:1          
+IPGP ,IPG Photonics Corporation ,"$31,205          ",40:1          
+MNRO ,"Monro, Inc. ","$36,354          ",40:1          
+MTDR ,Matador Resources Company ,"$198,876          ",40:1          
+NJR ,New Jersey Resources Corporation ,"$155,828          ",40:1          
+NYT ,The New York Times Company ,"$156,230          ",40:1          
+OGS ,"ONE Gas, Inc. ","$141,797          ",40:1          
+OKTA ,"Okta, Inc. ","$225,074          ",40:1          
+PRIM ,Primoris Services Corporation ,"$68,382          ",40:1          
+AMRC ,"Ameresco, Inc. ","$100,223          ",39:1          
+ARAY ,Accuray Incorporated ,"$118,180          ",39:1          
+WSR ,Whitestone REIT ,"$66,459          ",39:1          
+TRC ,Tejon Ranch Co. ,"$58,892          ",39:1          
+UIHC ,United Insurance Holdings Corp. ,"$75,545          ",39:1          
+RGEN ,Repligen Corporation ,"$112,637          ",39:1          
+DELL ,"Dell Technologies, Inc. ","$86,087          ",39:1          
+EVR ,Evercore Inc. ,"$187,500          ",39:1          
+FRME ,First Merchants Corporation ,"$44,087          ",39:1          
+FSCT ,"ForeScout Technologies, Inc. ","$171,363          ",39:1          
+TCMD ,"Tactile Systems Technology, Inc. ","$72,183          ",39:1          
+HSII ,"Heidrick & Struggles International, Inc. ","$109,451          ",39:1          
+LXFR ,Luxfer Holdings Plc ,"$56,871          ",39:1          
+MATX ,"Matson, Inc. ","$115,558          ",39:1          
+TGTX ,"TG Therapeutics, Inc. ","$322,556          ",39:1          
+NNI ,"Nelnet, Inc. ","$42,595          ",39:1          
+NTGR ,"NETGEAR, Inc. ","$108,186          ",39:1          
+NTNX ,"Nutanix, Inc. ","$179,305          ",39:1          
+PDM ,"Piedmont Office Realty Trust, Inc. ","$132,539          ",39:1          
+PDM ,"Piedmont Office Realty Trust, Inc. ","$132,539          ",39:1          
+PRA ,ProAssurance Corporation ,"$96,125          ",39:1          
+TRC ,Tejon Ranch Co. ,"$58,892          ",39:1          
+WD ,"Walker & Dunlop, Inc. ","$126,668          ",38:1          
+CNSL ,"Consolidated Communications Holdings, Inc. ","$81,159          ",38:1          
+EVRG ,"Evergy, Inc. ","$153,717          ",38:1          
+FAST ,Fastenal Company ,"$45,842          ",38:1          
+FIVN ,"Five9, Inc. ","$159,488          ",38:1          
+HCCI ,"Heritage-Crystal Clean, Inc. ","$60,697          ",38:1          
+WRE ,Washington Real Estate Investment Trust ,"$102,799          ",38:1          
+HVT ,"Haverty Furniture Companies, Inc. ","$43,534          ",38:1          
+RNST ,Renasant Corporation ,"$61,302          ",38:1          
+MPX ,Marine Products Corporation ,"$30,684          ",38:1          
+MYOK ,"MyoKardia, Inc. ","$268,172          ",38:1          
+OHI ,"Omega Healthcare Investors, Inc. ","$194,570          ",38:1          
+PDLI ,"PDL BioPharma, Inc. ","$160,462          ",38:1          
+PE ,"Parsley Energy, Inc. ","$171,503          ",38:1          
+PLOW ,"Douglas Dynamics, Inc. ","$52,348          ",38:1          
+POWL ,"Powell Industries, Inc. ","$53,471          ",38:1          
+PTCT ,"PTC Therapeutics, Inc. ","$203,671          ",38:1          
+MPX ,Marine Products Corporation ,"$30,684          ",38:1          
+MYOK ,"MyoKardia, Inc. ","$268,172          ",38:1          
+OHI ,"Omega Healthcare Investors, Inc. ","$194,570          ",38:1          
+PDLI ,"PDL BioPharma, Inc. ","$160,462          ",38:1          
+PE ,"Parsley Energy, Inc. ","$171,503          ",38:1          
+SLAB ,Silicon Laboratories Inc. ,"$156,492          ",38:1          
+PLOW ,"Douglas Dynamics, Inc. ","$52,348          ",38:1          
+POWL ,"Powell Industries, Inc. ","$53,471          ",38:1          
+PTCT ,"PTC Therapeutics, Inc. ","$203,671          ",38:1          
+UVE ,"Universal Insurance Holdings, Inc. ","$76,822          ",37:1          
+AYX ,"Alteryx, Inc. ","$178,732          ",37:1          
+CNOB ,"ConnectOne Bancorp, Inc. ","$70,167          ",37:1          
+CRD.B ,Crawford & Company ,"$53,912          ",37:1          
+FLDM ,Fluidigm Corporation ,"$100,351          ",37:1          
+GHC ,Graham Holdings Company ,"$40,131          ",37:1          
+ICFI ,"ICF International, Inc. ","$72,239          ",37:1          
+IIIN ,"Insteel Industries, Inc. ","$47,693          ",37:1          
+VOXX ,VOXX International Corporation ,"$53,516          ",37:1          
+PCRX ,"Pacira Biosciences, Inc. ","$155,462          ",37:1          
+PFS ,"Provident Financial Services, Inc. ","$61,925          ",37:1          
+IIIN ,"Insteel Industries, Inc. ","$47,693          ",37:1          
+Z ,"Zillow Group, Inc. ","$121,573          ",37:1          
+MTRX ,Matrix Service Company ,"$88,688          ",37:1          
+NBIX ,"Neurocrine Biosciences, Inc. ","$257,209          ",37:1          
+OSPN ,OneSpan Inc. ,"$82,352          ",37:1          
+PCRX ,"Pacira Biosciences, Inc. ","$155,462          ",37:1          
+UVE ,"Universal Insurance Holdings, Inc. ","$76,822          ",37:1          
+PFS ,"Provident Financial Services, Inc. ","$61,925          ",37:1          
+RLJ ,RLJ Lodging Trust ,"$162,806          ",37:1          
+ALSN ,"Allison Transmission Holdings, Inc. ","$85,826          ",36:1          
+AWR ,American States Water Company ,"$140,170          ",36:1          
+CALM ,"Cal-Maine Foods, Inc. ","$35,359          ",36:1          
+CVI ,"CVR Energy, Inc. ","$118,019          ",36:1          
+CWEN ,"Clearway Energy, Inc. ","$85,913          ",36:1          
+EBS ,Emergent BioSolutions Inc. ,"$104,315          ",36:1          
+RTRX ,"Retrophin, Inc. ","$266,813          ",36:1          
+FSTR ,L.B. Foster Co. ,"$58,495          ",36:1          
+ZEN ,"Zendesk, Inc. ","$123,560          ",36:1          
+GVA ,Granite Construction Incorporated ,"$114,909          ",36:1          
+HLIT ,Harmonic Inc. ,"$93,000          ",36:1          
+RTRX ,"Retrophin, Inc. ","$266,813          ",36:1          
+STBA ,"S&T Bancorp, Inc. ","$58,288          ",35:1          
+ANAB ,"AnaptysBio, Inc. ","$234,460          ",35:1          
+ASIX ,"Advansix, Inc. ","$109,313          ",35:1          
+WK ,"Workiva, Inc. ","$123,849          ",35:1          
+CONN ,"Conn's, Inc. ","$30,027          ",35:1          
+CTBI ,"Community Trust Bancorp, Inc. ","$35,091          ",35:1          
+TRTN ,Triton International Ltd. ,"$113,225          ",35:1          
+GKOS ,Glaukos Corporation ,"$163,032          ",35:1          
+HCHC ,"HC2 Holdings, Inc. ","$17,250          ",35:1          
+IONS ,"Ionis Pharmaceuticals, Inc. ","$270,956          ",35:1          
+IPI ,"Intrepid Potash, Inc. ","$79,257          ",35:1          
+SCOR ,"comScore, Inc. ","$84,985          ",35:1          
+VECO ,Veeco Instruments Inc. ,"$108,027          ",35:1          
+MGNX ,"MacroGenics, Inc. ","$135,136          ",35:1          
+MODN ,"Model N, Inc. ","$87,219          ",35:1          
+VRTS ,"Virtus Investment Partners, Inc. ","$206,079          ",35:1          
+RLI ,RLI Corp. ,"$134,543          ",35:1          
+WDFC ,WD-40 Company ,"$90,849          ",34:1          
+SRCE ,1st Source Corporation ,"$52,662          ",34:1          
+BRS ,"Bristow Group, Inc. ","$91,862          ",34:1          
+SRCE ,1st Source Corporation ,"$52,662          ",34:1          
+WLL ,Whiting Petroleum Corporation ,"$159,308          ",34:1          
+WDFC ,WD-40 Company ,"$90,849          ",34:1          
+CUTR ,"Cutera, Inc. ","$102,262          ",34:1          
+GPRO ,"GoPro, Inc. ","$160,222          ",34:1          
+YEXT ,"Yext, Inc. ","$149,038          ",34:1          
+HT ,Hersha Hospitality Trust ,"$96,458          ",34:1          
+LBAI ,"Lakeland Bancorp, Inc. ","$59,846          ",34:1          
+LTRPA ,"Liberty TripAdvisor Holdings, Inc. ","$93,750          ",34:1          
+NNBR ,"NN, Inc. ","$33,588          ",34:1          
+NWBI ,"Northwest Bancshares, Inc. (Pennsylvania) ","$37,439          ",34:1          
+OPK ,"OPKO Health, Inc. ","$41,445          ",34:1          
+PARR ,"Par Pacific Holdings, Inc. ","$73,365          ",34:1          
+PRK ,Park National Corporation ,"$61,572          ",34:1          
+AMSF ,"AMERISAFE, Inc. ","$65,677          ",33:1          
+GTT ,"GTT Communications, Inc. ","$56,074          ",33:1          
+HTLF ,"Heartland Financial USA, Inc. ","$59,970          ",33:1          
+POR ,Portland General Electric Company ,"$122,167          ",33:1          
+PWOD ,"Penns Woods Bancorp, Inc. ","$41,025          ",33:1          
+GTT ,"GTT Communications, Inc. ","$56,074          ",33:1          
+HTLF ,"Heartland Financial USA, Inc. ","$59,970          ",33:1          
+INFN ,Infinera Corporation ,"$90,432          ",33:1          
+KRO ,"Kronos Worldwide, Inc. ","$91,144          ",33:1          
+NC ,"NACCO Industries, Inc. ","$111,399          ",33:1          
+OSBC ,"Old Second Bancorp, Inc. ","$53,054          ",33:1          
+POR ,Portland General Electric Company ,"$122,167          ",33:1          
+PWOD ,"Penns Woods Bancorp, Inc. ","$41,025          ",33:1          
+SBRA ,"Sabra Health Care REIT, Inc. ","$176,917          ",33:1          
+SCU ,"Sculptor Capital Management, Inc. ","$227,387          ",33:1          
+ALNY ,"Alnylam Pharmaceuticals, Inc. ","$225,811          ",32:1          
+EGRX ,"Eagle Pharmaceuticals, Inc. ","$245,751          ",32:1          
+FC ,Franklin Covey Co. ,"$91,996          ",32:1          
+USLM ,"United States Lime & Minerals, Inc. ","$80,440          ",32:1          
+SJW ,SJW Group ,"$82,050          ",32:1          
+GCP ,"GCP Applied Technologies, Inc. ","$117,392          ",32:1          
+GRA ,W. R. Grace & Co. ,"$170,381          ",32:1          
+HE ,"Hawaiian Electric Industries, Inc. ","$151,680          ",32:1          
+HLI ,"Houlihan Lokey, Inc. ","$145,750          ",32:1          
+PETS ,"PetMed Express, Inc. ","$40,356          ",32:1          
+HLI ,"Houlihan Lokey, Inc. ","$145,750          ",32:1          
+SJW ,SJW Group ,"$82,050          ",32:1          
+LOPE ,"Grand Canyon Education, Inc. ","$60,255          ",32:1          
+USLM ,"United States Lime & Minerals, Inc. ","$80,440          ",32:1          
+PETS ,"PetMed Express, Inc. ","$40,356          ",32:1          
+PGEN ,"Precigen, Inc. ","$64,718          ",32:1          
+ACAD ,ACADIA Pharmaceuticals Inc. ,"$248,370          ",31:1          
+WWE ,"World Wrestling Entertainment, Inc. ","$113,752          ",31:1          
+AERI ,"Aerie Pharmaceuticals, Inc. ","$178,887          ",31:1          
+ZGNX ,"Zogenix, Inc. ","$337,830          ",31:1          
+SM ,SM Energy Company ,"$192,524          ",31:1          
+CRVL ,CorVel Corporation ,"$46,639          ",31:1          
+VCEL ,Vericel Corporation ,"$173,338          ",31:1          
+VCYT ,"Veracyte, Inc. ","$134,266          ",31:1          
+GBT ,"Global Blood Therapeutics, Inc. ","$321,142          ",31:1          
+HBNC ,"Horizon Bancorp, Inc. (Indiana) ","$40,240          ",31:1          
+HIW ,"Highwoods Properties, Inc. ","$68,222          ",31:1          
+HLIO ,"Helios Technologies, Inc. ","$45,749          ",31:1          
+SONA ,"Southern National Bancorp of Virginia, Inc. ","$42,141          ",31:1          
+ORBC ,ORBCOMM Inc. ,"$61,167          ",31:1          
+RESI ,Front Yard Residential Corp. ,"$56,502          ",31:1          
+WWE ,"World Wrestling Entertainment, Inc. ","$113,752          ",31:1          
+SM ,SM Energy Company ,"$192,524          ",31:1          
+AMSC ,American Superconductor Corporation ,"$71,432          ",30:1          
+ZEUS ,"Olympic Steel, Inc. ","$67,884          ",30:1          
+CIM ,Chimera Investment Corporation ,"$358,000          ",30:1          
+FWRD ,Forward Air Corporation ,"$44,550          ",30:1          
+TBBK ,"The Bancorp, Inc. ","$78,832          ",30:1          
+IBTX ,"Independent Bank Group, Inc. ","$67,914          ",30:1          
+INSM ,Insmed Incorporated ,"$237,800          ",30:1          
+KIN ,"Kindred Biosciences, Inc. ","$121,763          ",30:1          
+MVBF ,MVB Financial Corp. ,"$60,076          ",30:1          
+NWPX ,Northwest Pipe Company ,"$66,831          ",30:1          
+OFLX ,"Omega Flex, Inc. ","$65,059          ",30:1          
+ORCL ,Oracle Corporation ,"$83,813          ",30:1          
+PGC ,Peapack-Gladstone Financial Corporation ,"$74,643          ",30:1          
+AMRX ,"Amneal Pharmaceuticals, Inc. ","$11,792          ",29:1          
+CNTY ,"Century Casinos, Inc. ","$49,694          ",29:1          
+UFCS ,"United Fire Group, Inc. ","$78,796          ",29:1          
+HIFS ,Hingham Institution for Savings ,"$68,359          ",29:1          
+WETF ,"WisdomTree Investments, Inc. ","$211,000          ",29:1          
+CNTY ,"Century Casinos, Inc. ","$49,694          ",29:1          
+EGOV ,NIC Inc. ,"$85,670          ",29:1          
+FIT ,"Fitbit, Inc. ","$133,798          ",29:1          
+HIFS ,Hingham Institution for Savings ,"$68,359          ",29:1          
+LLNW ,"Limelight Networks, Inc. ","$102,606          ",29:1          
+MG ,"MISTRAS Group, Inc. ","$64,491          ",29:1          
+UFCS ,"United Fire Group, Inc. ","$78,796          ",29:1          
+MTCH ,"Match Group, Inc. /Old/ ","$86,063          ",29:1          
+ZIXI ,Zix Corporation ,"$82,420          ",29:1          
+SMMF ,"Summit Financial Group, Inc. ","$38,887          ",29:1          
+ACLS ,"Axcelis Technologies, Inc. ","$77,852          ",28:1          
+AMH ,American Homes 4 Rent ,"$53,556          ",28:1          
+AXSM ,"Axsome Therapeutics, Inc. ","$166,021          ",28:1          
+CFFN ,"Capitol Federal Financial, Inc. ","$39,022          ",28:1          
+CPSI ,"Computer Programs and Systems, Inc. ","$48,348          ",28:1          
+GWRE ,"Guidewire Software, Inc. ","$161,858          ",28:1          
+ICPT ,"Intercept Pharmaceuticals, Inc. ","$239,066          ",28:1          
+UBA ,Urstadt Biddle Properties Inc. ,"$73,974          ",28:1          
+RMBS ,Rambus Inc. ,"$145,620          ",28:1          
+FDEF ,Premier Financial Corp. ,"$39,112          ",28:1          
+GWRE ,"Guidewire Software, Inc. ","$161,858          ",28:1          
+ICPT ,"Intercept Pharmaceuticals, Inc. ","$239,066          ",28:1          
+MCY ,Mercury General Corporation ,"$61,343          ",28:1          
+MSBI ,"Midland States Bancorp, Inc. ","$48,157          ",28:1          
+MYRG ,MYR Group Inc. ,"$97,095          ",28:1          
+NCMI ,"National CineMedia, Inc. ","$91,778          ",28:1          
+NYMT ,"New York Mortgage Trust, Inc. ","$179,517          ",28:1          
+OBNK ,"Origin Bancorp, Inc. ","$59,355          ",28:1          
+RMBS ,Rambus Inc. ,"$145,620          ",28:1          
+RUBI ,"Magnite, Inc. ","$134,169          ",28:1          
+ABCB ,Ameris Bancorp ,"$58,776          ",27:1          
+FCF ,First Commonwealth Financial Corporation ,"$40,928          ",27:1          
+FMBH ,"First Mid Bancshares, Inc. ","$32,716          ",27:1          
+FNHC ,FedNat Holding Company ,"$62,759          ",27:1          
+VNDA ,Vanda Pharmaceuticals Inc. ,"$156,413          ",27:1          
+OSUR ,"OraSure Technologies, Inc. ","$76,909          ",27:1          
+PEBO ,Peoples Bancorp Inc. ,"$48,796          ",27:1          
+PLUS ,"ePlus, Inc. ","$114,052          ",27:1          
+SAGE ,"SAGE Therapeutics, Inc. ","$369,650          ",27:1          
+FMBH ,"First Mid Bancshares, Inc. ","$32,716          ",27:1          
+FNHC ,FedNat Holding Company ,"$62,759          ",27:1          
+VNDA ,Vanda Pharmaceuticals Inc. ,"$156,413          ",27:1          
+MAXR ,"Maxar Technologies, Inc. ","$107,628          ",27:1          
+MKTX ,MarketAxess Holdings Inc. ,"$140,455          ",27:1          
+NWE ,NorthWestern Corporation ,"$123,868          ",27:1          
+OSUR ,"OraSure Technologies, Inc. ","$76,909          ",27:1          
+PEBO ,Peoples Bancorp Inc. ,"$48,796          ",27:1          
+PLUS ,"ePlus, Inc. ","$114,052          ",27:1          
+SAGE ,"SAGE Therapeutics, Inc. ","$369,650          ",27:1          
+SHO ,"Sunstone Hotel Investors, Inc. ","$203,090          ",27:1          
+AMAG ,"AMAG Pharmaceuticals, Inc. ","$189,221          ",26:1          
+AMAL ,Amalgamated Bank ,"$89,366          ",26:1          
+BAND ,Bandwidth Inc. ,"$86,926          ",26:1          
+BBSI ,"Barrett Business Services, Inc. ","$100,947          ",26:1          
+CDXS ,"Codexis, Inc. ","$132,577          ",26:1          
+CLVS ,"Clovis Oncology, Inc. ","$262,806          ",26:1          
+FMNB ,Farmers National Banc Corp. ,"$39,659          ",26:1          
+VCRA ,"Vocera Communications, Inc. ","$139,741          ",26:1          
+VIRT ,"Virtu Financial, Inc. ","$177,848          ",26:1          
+CLVS ,"Clovis Oncology, Inc. ","$262,806          ",26:1          
+VCRA ,"Vocera Communications, Inc. ","$139,741          ",26:1          
+DCOM ,"Dime Community Bancshares, Inc. ","$69,517          ",26:1          
+FCCY ,1st Constitution Bancorp ,"$59,649          ",26:1          
+WSFS ,WSFS Financial Corporation ,"$73,280          ",26:1          
+FMNB ,Farmers National Banc Corp. ,"$39,659          ",26:1          
+JCOM ,"j2 Global, Inc. ","$83,858          ",26:1          
+LQDT ,"Liquidity Services, Inc. ","$87,654          ",26:1          
+MFA ,"MFA Financial, Inc. ","$206,500          ",26:1          
+STRS ,"Stratus Properties, Inc. ","$60,150          ",26:1          
+CHCT ,"Community Healthcare Trust, Inc. ","$105,761          ",25:1          
+COLL ,"Collegium Pharmaceutical, Inc. ","$159,794          ",25:1          
+GABC ,"German American Bancorp, Inc. ","$40,875          ",25:1          
+GFN ,General Finance Corporation ,"$47,043          ",25:1          
+HALO ,"Halozyme Therapeutics, Inc. ","$238,096          ",25:1          
+IBCP ,Independent Bank Corporation ,"$44,329          ",25:1          
+PIPR ,Piper Sandler Cos. ,"$185,719          ",25:1          
+QCRH ,"QCR Holdings, Inc. ","$64,030          ",25:1          
+RGNX ,"REGENXBIO, Inc. ","$241,772          ",25:1          
+SEIC ,SEI Investments Company ,"$90,320          ",25:1          
+LIND ,"Lindblad Expeditions Holdings, Inc. ","$67,436          ",25:1          
+WASH ,"Washington Trust Bancorp, Inc. ","$61,648          ",25:1          
+MRLN ,Marlin Business Services Corp. ,"$77,576          ",25:1          
+NLOK ,NortonLifeLock Inc. ,"$115,899          ",25:1          
+NVAX ,"Novavax, Inc. ","$98,413          ",25:1          
+ORA ,"Ormat Technologies, Inc. ","$65,700          ",25:1          
+PIPR ,Piper Sandler Cos. ,"$185,719          ",25:1          
+TREC ,Trecora Resources ,"$90,272          ",25:1          
+QCRH ,"QCR Holdings, Inc. ","$64,030          ",25:1          
+RGNX ,"REGENXBIO, Inc. ","$241,772          ",25:1          
+SEIC ,SEI Investments Company ,"$90,320          ",25:1          
+SGMO ,"Sangamo Therapeutics, Inc. ","$159,900          ",25:1          
+AHH ,"Armada Hoffler Properties, Inc. ","$89,291          ",24:1          
+CHMG ,Chemung Financial Corporation ,"$35,299          ",24:1          
+CLAR ,Clarus Corporation ,"$48,748          ",24:1          
+CRAI ,"CRA International, Inc. ","$138,853          ",24:1          
+FCBC ,"First Community Bancshares, Inc. ","$35,084          ",24:1          
+SATS ,EchoStar Corporation ,"$104,923          ",24:1          
+SEDG ,"SolarEdge Technologies, Inc. ","$87,193          ",24:1          
+STAG ,"STAG Industrial, Inc. ","$180,315          ",24:1          
+JRVR ,James River Group Holdings Ltd. ,"$70,960          ",24:1          
+MEET ,"The Meet Group, Inc. ","$88,429          ",24:1          
+SATS ,EchoStar Corporation ,"$104,923          ",24:1          
+SEDG ,"SolarEdge Technologies, Inc. ","$87,193          ",24:1          
+STAG ,"STAG Industrial, Inc. ","$180,315          ",24:1          
+TBK ,"Triumph Bancorp, Inc. ","$51,807          ",24:1          
+BDSI ,"BioDelivery Sciences International, Inc. ","$127,193          ",23:1          
+CNS ,"Cohen & Steers, Inc. ","$197,950          ",23:1          
+DHIL ,"Diamond Hill Investment Group, Inc. ","$272,946          ",23:1          
+DRH ,DiamondRock Hospitality Company ,"$210,469          ",23:1          
+EPRT ,"Essential Properties Realty Trust, Inc. ","$104,000          ",23:1          
+FARM ,Farmer Bros. Co. ,"$62,804          ",23:1          
+FISI ,"Financial Institutions, Inc. ","$58,769          ",23:1          
+GOGO ,Gogo Inc. ,"$117,069          ",23:1          
+HAFC ,Hanmi Financial Corporation ,"$61,813          ",23:1          
+NVEE ,"NV5 Global, Inc. ","$82,352          ",23:1          
+OMER ,Omeros Corporation ,"$207,162          ",23:1          
+ONTO ,"Onto Innovation, Inc. ","$97,617          ",23:1          
+BHB ,Bar Harbor Bankshares ,"$43,083          ",22:1          
+HMST ,"HomeStreet, Inc. ","$79,415          ",22:1          
+DRNA ,"Dicerna Pharmaceuticals, Inc. ","$229,867          ",22:1          
+EVBN ,"Evans Bancorp, Inc. ","$55,078          ",22:1          
+FGEN ,"FibroGen, Inc. ","$285,644          ",22:1          
+HMST ,"HomeStreet, Inc. ","$79,415          ",22:1          
+MC ,Moelis & Co. ,"$236,400          ",22:1          
+MNTA ,"Momenta Pharmaceuticals, Inc. ","$210,742          ",22:1          
+NEU ,NewMarket Corporation ,"$146,806          ",22:1          
+NGVC ,"Natural Grocers by Vitamin Cottage, Inc. ","$28,756          ",22:1          
+PFIS ,Peoples Financial Services Corp. ,"$37,663          ",22:1          
+WIFI ,"Boingo Wireless, Inc. ","$117,076          ",22:1          
+RDUS ,"Radius Health, Inc. ","$174,976          ",22:1          
+RMAX ,"RE/MAX Holdings, Inc. ","$93,130          ",22:1          
+VIVO ,"Meridian Bioscience, Inc. ","$59,227          ",22:1          
+SPOK ,"Spok Holdings, Inc. ","$101,869          ",22:1          
+STAR ,iStar Inc. ,"$196,004          ",22:1          
+AMBC ,"Ambac Financial Group, Inc. ","$261,983          ",21:1          
+UEC ,Uranium Energy Corp. ,"$81,325          ",21:1          
+GRC ,The Gorman-Rupp Company ,"$54,267          ",21:1          
+HASI ,"Hannon Armstrong Sustainable Infrastructure Capital, Inc. ","$247,530          ",21:1          
+QADB ,QAD Inc. ,"$83,945          ",21:1          
+GRC ,The Gorman-Rupp Company ,"$54,267          ",21:1          
+HASI ,"Hannon Armstrong Sustainable Infrastructure Capital, Inc. ","$247,530          ",21:1          
+XLRN ,Acceleron Pharma Inc. ,"$206,982          ",21:1          
+TSC ,"TriState Capital Holdings, Inc. ","$142,735          ",21:1          
+IPHI ,Inphi Corporation ,"$220,831          ",21:1          
+LXRX ,"Lexicon Pharmaceuticals, Inc. ","$185,046          ",21:1          
+MGEE ,"MGE Energy, Inc. ","$115,463          ",21:1          
+MGPI ,"MGP Ingredients, Inc. ","$76,415          ",21:1          
+NMIH ,"NMI Holdings, Inc. ","$165,982          ",21:1          
+NWN ,Northwest Natural Holding Co. ,"$206,446          ",21:1          
+NXRT ,"NexPoint Residential Trust, Inc. ","$80,000          ",21:1          
+OSTK ,"Overstock.com, Inc. ","$78,429          ",21:1          
+UVSP ,Univest Financial Corporation ,"$64,160          ",21:1          
+QADB ,QAD Inc. ,"$83,945          ",21:1          
+XHR ,"Xenia Hotels & Resorts, Inc. ","$277,937          ",21:1          
+BCEI ,"Bonanza Creek Energy, Inc. ","$133,496          ",20:1          
+CIX ,CompX International Inc. ,"$54,284          ",20:1          
+CORT ,"Corcept Therapeutics, Inc. ","$253,070          ",20:1          
+GPX ,GP Strategies Corporation ,"$56,499          ",20:1          
+HFWA ,Heritage Financial Corporation ,"$56,278          ",20:1          
+CCXI ,"ChemoCentryx, Inc. ","$170,138          ",20:1          
+CERS ,Cerus Corporation ,"$160,582          ",20:1          
+CIX ,CompX International Inc. ,"$54,284          ",20:1          
+CORT ,"Corcept Therapeutics, Inc. ","$253,070          ",20:1          
+DEA ,"Easterly Government Properties, Inc. ","$186,838          ",20:1          
+EFSC ,Enterprise Financial Services Corp ,"$67,505          ",20:1          
+WVE ,Wave Life Sciences Ltd. ,"$175,254          ",20:1          
+EPR ,EPR Properties ,"$206,575          ",20:1          
+ERII ,"Energy Recovery, Inc. ","$77,949          ",20:1          
+UMH ,"UMH Properties, Inc. ","$37,766          ",20:1          
+GPX ,GP Strategies Corporation ,"$56,499          ",20:1          
+HFWA ,Heritage Financial Corporation ,"$56,278          ",20:1          
+HWKN ,"Hawkins, Inc. ","$91,452          ",20:1          
+KNSL ,"Kinsale Capital Group, Inc. ","$101,166          ",20:1          
+MBWM ,Mercantile Bank Corporation ,"$49,630          ",20:1          
+MRTN ,"Marten Transport, Ltd. ","$58,508          ",20:1          
+NTCT ,"NetScout Systems, Inc. ","$139,744          ",20:1          
+ORI ,Old Republic International Corporation ,"$82,043          ",20:1          
+RARE ,"Ultragenyx Pharmaceutical, Inc. ","$323,253          ",20:1          
+RES ,"RPC, Inc. ","$89,330          ",20:1          
+WABC ,Westamerica Bancorporation ,"$35,667          ",20:1          
+BANF ,BancFirst Corporation ,"$37,856          ",19:1          
+BMTC ,Bryn Mawr Bank Corporation ,"$83,829          ",19:1          
+EQC ,Equity Commonwealth ,"$310,061          ",19:1          
+ESXB ,Community Bankers Trust Corporation ,"$50,197          ",19:1          
+EXPO ,"Exponent, Inc. ","$138,392          ",19:1          
+GTHX ,"G1 Therapeutics, Inc. ","$213,060          ",19:1          
+HBCP ,"Home Bancorp, Inc. ","$45,847          ",19:1          
+IDCC ,"InterDigital, Inc. ","$175,542          ",19:1          
+ITIC ,Investors Title Company ,"$65,279          ",19:1          
+LMAT ,"LeMaitre Vascular, Inc. ","$75,176          ",19:1          
+LTC ,"LTC Properties, Inc. ","$222,266          ",19:1          
+MLR ,"Miller Industries, Inc. ","$48,630          ",19:1          
+NEWR ,"New Relic, Inc. ","$220,810          ",19:1          
+NPK ,"National Presto Industries, Inc. ","$38,418          ",19:1          
+ORRF ,"Orrstown Financial Services, Inc. ","$56,276          ",19:1          
+SBCF ,Seacoast Banking Corporation of Florida ,"$69,884          ",19:1          
+TRNO ,Terreno Realty Corporation ,"$166,131          ",19:1          
+AGX ,"Argan, Inc. ","$72,584          ",18:1          
+HTBI ,"HomeTrust Bancshares, Inc. ","$59,522          ",18:1          
+EBTC ,"Enterprise Bancorp, Inc. ","$58,396          ",18:1          
+FFWM ,First Foundation Inc. ,"$108,000          ",18:1          
+GORO ,Gold Resource Corporation ,"$70,779          ",18:1          
+WSBF ,"Waterstone Financial, Inc. ","$66,736          ",18:1          
+HTBI ,"HomeTrust Bancshares, Inc. ","$59,522          ",18:1          
+IMGN ,"ImmunoGen, Inc. ","$223,674          ",18:1          
+KOS ,Kosmos Energy Ltd. ,"$288,547          ",18:1          
+MOFG ,"MidWestOne Financial Group, Inc. ","$54,384          ",18:1          
+OPCH ,"Option Care Health, Inc. ","$48,525          ",18:1          
+ULH ,"Universal Logistics Holdings, Inc. ","$32,218          ",18:1          
+AGM ,Federal Agricultural Mortgage Corp. ,"$158,175          ",17:1          
+AGYS ,"Agilysys, Inc. ","$64,329          ",17:1          
+ARGO ,"Argo Group International Holdings, Ltd. ","$121,637          ",17:1          
+BCRX ,"BioCryst Pharmaceuticals, Inc. ","$138,642          ",17:1          
+VRS ,Verso Corp. ,"$88,080          ",17:1          
+DSPG ,"DSP Group, Inc. ","$110,487          ",17:1          
+ENTA ,"Enanta Pharmaceuticals, Inc. ","$260,099          ",17:1          
+MIME ,Mimecast Limited ,"$100,025          ",17:1          
+QMCO ,Quantum Corporation ,"$122,526          ",17:1          
+SAIL ,"SailPoint Technologies Holdings, Inc. ","$215,664          ",17:1          
+MIME ,Mimecast Limited ,"$100,025          ",17:1          
+QMCO ,Quantum Corporation ,"$122,526          ",17:1          
+SAIL ,"SailPoint Technologies Holdings, Inc. ","$215,664          ",17:1          
+TRUP ,"Trupanion, Inc. ","$64,111          ",17:1          
+1 ,"TrueCar, Inc. ","$130,939          ",16:1          
+ALCO ,"Alico, Inc. ","$67,729          ",16:1          
+AMNB ,American National Bankshares Inc. ,"$58,459          ",16:1          
+ARCB ,ArcBest Corporation ,"$153,395          ",16:1          
+CDXC ,ChromaDex Corporation ,"$104,057          ",16:1          
+CIO ,"City Office REIT, Inc. ","$132,030          ",16:1          
+CIVB ,"Civista Bancshares, Inc. ","$41,206          ",16:1          
+ECOM ,Channeladvisor Corporation ,"$97,305          ",16:1          
+FCEL ,"FuelCell Energy, Inc. ","$88,357          ",16:1          
+IPAR ,"Inter Parfums, Inc. ","$60,809          ",16:1          
+ITCI ,"Intra-Cellular Therapies, Inc. ","$292,657          ",16:1          
+KRNY ,Kearny Financial Corp. ,"$60,179          ",16:1          
+MPB ,"Mid Penn Bancorp, Inc. ","$41,642          ",16:1          
+XNCR ,"Xencor, Inc. ","$241,054          ",16:1          
+MSEX ,Middlesex Water Company ,"$112,339          ",16:1          
+SFBS ,"ServisFirst Bancshares, Inc. ","$75,074          ",16:1          
+SFBS ,"ServisFirst Bancshares, Inc. ","$75,074          ",16:1          
+TCO ,"Taubman Centers, Inc. ","$85,185          ",16:1          
+ZIOP ,"ZIOPHARM Oncology, Inc. ","$217,803          ",15:1          
+WAT ,Waters Corporation ,"$74,654          ",15:1          
+CACC ,Credit Acceptance Corporation ,"$68,355          ",15:1          
+CARG ,"Cargurus, Inc. ","$175,692          ",15:1          
+FMAO ,"Farmers & Merchants Bancorp, Inc. ","$40,211          ",15:1          
+ILMN ,"Illumina, Inc. ","$104,555          ",15:1          
+MBI ,MBIA Inc. ,"$270,642          ",15:1          
+NFBK ,"Northfield Bancorp, Inc. ","$64,534          ",15:1          
+VRRM ,Verra Mobility Corp. ,"$58,040          ",15:1          
+PTLA ,"Portola Pharmaceuticals, Inc. ","$291,408          ",15:1          
+ACIA ,"Acacia Communications, Inc. ","$189,703          ",14:1          
+CHRS ,"Coherus BioSciences, Inc. ","$388,857          ",14:1          
+HCKT ,"The Hackett Group, Inc. ","$125,000          ",14:1          
+HRTX ,"Heron Therapeutics, Inc. ","$408,623          ",14:1          
+RDFN ,Redfin Corporation ,"$79,100          ",14:1          
+SAL ,"Salisbury Bancorp, Inc. ","$58,299          ",14:1          
+SMBC ,"Southern Missouri Bancorp, Inc. ","$30,662          ",14:1          
+UTI ,"Universal Technical Institute, Inc. ","$73,485          ",14:1          
+HRTX ,"Heron Therapeutics, Inc. ","$408,623          ",14:1          
+LCNB ,LCNB Corp. ,"$37,080          ",14:1          
+MRTX ,"Mirati Therapeutics, Inc. ","$588,168          ",14:1          
+RDFN ,Redfin Corporation ,"$79,100          ",14:1          
+SAL ,"Salisbury Bancorp, Inc. ","$58,299          ",14:1          
+SMBC ,"Southern Missouri Bancorp, Inc. ","$30,662          ",14:1          
+UTI ,"Universal Technical Institute, Inc. ","$73,485          ",14:1          
+UTMD ,"Utah Medical Products, Inc. ","$34,030          ",14:1          
+AXDX ,"Accelerate Diagnostics, Inc. ","$160,500          ",13:1          
+BCOV ,Brightcove Inc. ,"$112,500          ",13:1          
+GBLI ,Global Indemnity Ltd. ,"$99,515          ",13:1          
+HSKA ,Heska Corporation ,"$48,933          ",13:1          
+HTBK ,Heritage Commerce Corp ,"$72,961          ",13:1          
+HTLD ,"Heartland Express, Inc. ","$57,313          ",13:1          
+IMMU ,"Immunomedics, Inc. ","$145,723          ",13:1          
+PEBK ,"Peoples Bancorp of North Carolina, Inc. ","$43,950          ",13:1          
+RVP ,"Retractable Technologies, Inc. ","$37,440          ",13:1          
+SAMG ,"Silvercrest Asset Management Group, Inc. ","$194,000          ",13:1          
+SIGA ,"SIGA Technologies, Inc. ","$120,621          ",13:1          
+TCX ,Tucows Inc. ,"$39,056          ",13:1          
+RVP ,"Retractable Technologies, Inc. ","$37,440          ",13:1          
+SAMG ,"Silvercrest Asset Management Group, Inc. ","$194,000          ",13:1          
+SIGA ,"SIGA Technologies, Inc. ","$120,621          ",13:1          
+TCX ,Tucows Inc. ,"$39,056          ",13:1          
+TRIP ,"TripAdvisor, Inc. ","$93,750          ",13:1          
+ARWR ,"Arrowhead Pharmaceuticals, Inc. ","$179,403          ",12:1          
+CATC ,Cambridge Bancorp ,"$173,539          ",12:1          
+CVLY ,"Codorus Valley Bancorp, Inc. ","$48,707          ",12:1          
+DHX ,"DHI Group, Inc. ","$88,828          ",12:1          
+DX ,"Dynex Capital, Inc. ","$191,205          ",12:1          
+FBIZ ,"First Business Financial Services, Inc. ","$104,441          ",12:1          
+MSTR ,MicroStrategy Incorporated ,"$91,653          ",12:1          
+NG ,NovaGold Resources Inc. ,"$389,705          ",12:1          
+NRIM ,"Northrim BanCorp, Inc. ","$64,640          ",12:1          
+RBCAA ,"Republic Bancorp, Inc. ","$51,678          ",12:1          
+REX ,REX American Resources Corporation ,"$47,155          ",12:1          
+RTIX ,"RTI Surgical Holdings, Inc. ","$58,452          ",12:1          
+RVSB ,"Riverview Bancorp, Inc. ","$52,363          ",12:1          
+SASR ,"Sandy Spring Bancorp, Inc. ","$156,097          ",12:1          
+SFST ,"Southern First Bancshares, Inc. ","$75,923          ",12:1          
+SFST ,"Southern First Bancshares, Inc. ","$75,923          ",12:1          
+VALU ,"Value Line, Inc. ","$70,000          ",12:1          
+AXGN ,"AxoGen, Inc. ","$104,847          ",11:1          
+WINA ,Winmark Corporation ,"$78,826          ",11:1          
+CVCY ,Central Valley Community Bancorp ,"$63,526          ",11:1          
+DAKT ,"Daktronics, Inc. ","$48,585          ",11:1          
+EFR ,Energy Fuels Inc. ,"$70,901          ",11:1          
+HBMD ,"Howard Bancorp, Inc. ","$72,578          ",11:1          
+KMI ,"Kinder Morgan, Inc. ","$111,546          ",11:1          
+PSB ,"PS Business Parks, Inc. ","$90,319          ",11:1          
+RIGL ,"Rigel Pharmaceuticals, Inc. ","$232,848          ",11:1          
+TPRE ,Third Point Reinsurance Ltd. ,"$384,748          ",11:1          
+TXMD ,"TherapeuticsMD, Inc. ","$114,000          ",11:1          
+AGR ,"Avangrid, Inc. ","$221,567          ",10:1          
+GENC ,"Gencor Industries, Inc. ","$45,583          ",10:1          
+PEN ,"Penumbra, Inc. ","$71,088          ",10:1          
+PFBI ,"Premier Financial Bancorp, Inc. ","$47,151          ",10:1          
+PMT ,PennyMac Mortgage Investment Trust ,"$78,415          ",10:1          
+PRTA ,Prothena Corp. Plc ,"$336,579          ",10:1          
+RECN ,"Resources Connection, Inc. ","$136,636          ",10:1          
+JOE ,The St. Joe Company ,"$101,604          ",10:1          
+MNKD ,MannKind Corporation ,"$148,059          ",10:1          
+PEN ,"Penumbra, Inc. ","$71,088          ",10:1          
+PFBI ,"Premier Financial Bancorp, Inc. ","$47,151          ",10:1          
+PMT ,PennyMac Mortgage Investment Trust ,"$78,415          ",10:1          
+PRTA ,Prothena Corp. Plc ,"$336,579          ",10:1          
+RECN ,"Resources Connection, Inc. ","$136,636          ",10:1          
+SLCT ,"Select Bancorp, Inc. ","$64,566          ",10:1          
+APPS ,"Digital Turbine, Inc. ","$112,575          ",9:1          
+CDMO ,"Avid Bioservices, Inc. ","$96,570          ",9:1          
+CEVA ,"CEVA, Inc. ","$121,478          ",9:1          
+CIZN ,Citizens Holding Company ,"$41,175          ",9:1          
+DJCO ,Daily Journal Corporation ,"$70,000          ",9:1          
+DRRX ,DURECT Corporation ,"$135,519          ",9:1          
+EXEL ,"Exelixis, Inc. ","$241,154          ",9:1          
+FRBK ,"Republic First Bancorp, Inc. ","$76,347          ",9:1          
+GSIT ,"GSI Technology, Inc. ","$114,655          ",9:1          
+LOB ,"Live Oak Bancshares, Inc. ","$82,439          ",9:1          
+NHI ,"National Health Investors, Inc. ","$201,685          ",9:1          
+NTLA ,"Intellia Therapeutics, Inc. ","$102,476          ",9:1          
+NTLA ,"Intellia Therapeutics, Inc. ","$102,476          ",9:1          
+RGLD ,"Royal Gold, Inc. ","$446,083          ",9:1          
+AE ,"Adams Resources & Energy, Inc. ","$74,358          ",8:1          
+AMSWA ,"American Software, Inc. ","$103,159          ",8:1          
+AVID ,"Avid Technology, Inc. ","$88,247          ",8:1          
+CMO ,Capstead Mortgage Corporation ,"$249,000          ",8:1          
+FOR ,"Forestar Group, Inc. ","$149,854          ",8:1          
+GTY ,Getty Realty Corp. ,"$209,399          ",8:1          
+MDGL ,"Madrigal Pharmaceuticals, Inc. ","$791,000          ",8:1          
+MNR ,Monmouth Real Estate Investment Corporation ,"$191,000          ",8:1          
+OLP ,"One Liberty Properties, Inc. ","$237,000          ",8:1          
+PACB ,"Pacific Biosciences of California, Inc. ","$179,122          ",8:1          
+PICO ,"PICO Holdings, Inc. ","$106,000          ",8:1          
+PVAC ,Penn Virginia Corporation ,"$106,399          ",8:1          
+APPF ,"AppFolio, Inc. ","$89,397          ",7:1          
+AVGO ,Broadcom Inc. ,"$354,119          ",7:1          
+BSIG ,"Brightsphere Investment Group, Inc. ","$180,216          ",7:1          
+HSTM ,"HealthStream, Inc. ","$83,015          ",7:1          
+PKE ,Park Aerospace Corp. ,"$45,343          ",7:1          
+TITN ,Titan Machinery Inc. ,"$69,112          ",7:1          
+TITN ,Titan Machinery Inc. ,"$69,112          ",7:1          
+TNAV ,"TeleNav, Inc. ","$149,533          ",7:1          
+VICR ,Vicor Corporation ,"$64,087          ",7:1          
+AI ,Arlington Asset Investment Corp. ,"$435,735          ",6:1          
+AVEO ,"AVEO Pharmaceuticals, Inc. ","$283,507          ",6:1          
+BRK.B ,Berkshire Hathaway Inc. ,"$65,740          ",6:1          
+CALX ,"Calix, Inc. ","$150,529          ",6:1          
+DBX ,"Dropbox, Inc. ","$244,570          ",6:1          
+ETSY ,"Etsy, Inc. ","$186,293          ",6:1          
+FORR ,"Forrester Research, Inc. ","$112,206          ",6:1          
+MEIP ,"MEI Pharma, Inc. ","$315,891          ",6:1          
+IIPR ,"Innovative Industrial Properties, Inc. ","$305,018          ",5:1          
+PDFS ,"PDF Solutions, Inc. ","$88,517          ",5:1          
+SMCI ,"Super Micro Computer, Inc. ","$83,467          ",5:1          
+SRPT ,"Sarepta Therapeutics, Inc. ","$290,714          ",5:1          
+SVRA ,"Savara, Inc. ","$233,712          ",5:1          
+BFS ,"Saul Centers, Inc. ","$75,761          ",4:1          
+CPRT ,"Copart, Inc. ","$35,360          ",4:1          
+GERN ,Geron Corporation ,"$466,225          ",4:1          
+GLRE ,Greenlight Capital Re Ltd. ,"$299,241          ",4:1          
+ESPR ,"Esperion Therapeutics, Inc. ","$242,988          ",4:1          
+GERN ,Geron Corporation ,"$466,225          ",4:1          
+GLRE ,Greenlight Capital Re Ltd. ,"$299,241          ",4:1          
+NRC ,National Research Corporation ,"$63,703          ",4:1          
+PJT ,"PJT Partners, Inc. ","$278,329          ",4:1          
+URBN ,"Urban Outfitters, Inc. ","$12,402          ",4:1          
+WHG ,"Westwood Holdings Group, Inc. ","$169,000          ",4:1          
+ALX ,"Alexander's, Inc. ","$54,669          ",3:1          
+INOV ,"Inovalon Holdings, Inc. ","$67,827          ",3:1          
+INVA ,"Innoviva, Inc. ","$288,333          ",3:1          
+TELL ,Tellurian Inc. ,"$232,278          ",3:1          
+VEEV ,"Veeva Systems, Inc. ","$123,438          ",3:1          
+ANH ,Anworth Mortgage Asset Corporation ,"$60,830          ",2:1          
+FSP ,Franklin Street Properties Corp. ,"$132,511          ",2:1          
+W ,"Wayfair, Inc. ","$41,412          ",2:1          
+APO ,"Apollo Global Management, Inc. ","$216,695          ",1:1          
+BOX ,"Box, Inc. ","$192,188          ",1:1          
+GHL ,"Greenhill & Co., Inc. ","$190,000          ",1:1          
+MGY ,Magnolia Oil & Gas Corp. ,"$243,275          ",1:1          
